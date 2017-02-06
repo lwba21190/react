@@ -1,0 +1,38 @@
+{
+  "data": [
+      [
+        {
+        "iconName": "spgz",
+        "number": "",
+        "title": "商品关注",
+        "subtitle": ""
+        },
+        {
+          "iconName": "dpgz",
+          "number": "",
+          "title": "店铺关注",
+          "subtitle": ""
+        },
+        {
+          "iconName": "lljl",
+          "number": "",
+          "title": "浏览记录",
+          "subtitle": ""
+        },
+        {
+          "iconName": "khfw",
+          "number": "",
+          "title": "客户服务",
+          "subtitle": ""
+        }
+      ],
+      [
+        {
+          "iconName": "wdhd",
+          "number": "",
+          "title": "我的活动",
+          "subtitle": "预约/拍卖等"
+        }
+      ]
+  ]
+}

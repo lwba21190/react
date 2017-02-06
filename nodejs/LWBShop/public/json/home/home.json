@@ -1,0 +1,2962 @@
+{
+	"tipsIdleTime": 300,
+	"naviVer": "1476267362000",
+	"tagAnimations": 1,
+	"canBeDefault": true,
+	"firework": 0,
+	"floorList": [{
+		"content": [{
+			"activityId": 72112,
+			"sortno": 1,
+			"abt": "",
+			"title": "超品黑电",
+			"wareDisplayType": 0,
+			"horizontalImag": "http://m.360buyimg.com/mobilecms/s750x350_jfs/t3373/252/259964030/82940/11c9eee1/5804c5a3Nddef5e64.jpg!q70.jpg.webp",
+			"exposalUrl": "",
+			"clickUrl": "",
+			"jump": {
+				"des": "m",
+				"srv": "C_0_0_72112_",
+				"shareInfo": {
+					"content": "",
+					"title": "",
+					"avatar": "",
+					"url": ""
+				},
+				"params": {
+					"needLogin": "0",
+					"url": "http://h5.m.jd.com/active/26KknpsCKfFbeXVfno9on9NZ4Kwk/index.html"
+				}
+			}
+		}, {
+			"activityId": 0,
+			"sortno": 2,
+			"abt": "2",
+			"title": "促销活动",
+			"wareDisplayType": 0,
+			"horizontalImag": "http://img14.360buyimg.com/da/jfs/t3166/131/3969226716/94412/763eaef3/57fb5664N8e47b353.jpg.webp",
+			"exposalUrl": "",
+			"clickUrl": "http://ccc.x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTMxNDY2Ml8xOTAxJnRvPWh0dHA6Ly9zYWxlLmpkLmNvbS9tL2FjdC9CVng1YWVuY3ZMNkkuaHRtbA&log=YMR7sbzAW7XTyODIAmJffjdaylfNm8Xz75Oq_5LcfgEo1JmHE5SgduFMOlT6oaFdizzHpceqT7FUW7aTFK05gks9GERsYc8wIKQDM2u1fWSwL_pdi-i2NdDtJckvN5eZgQILDa4ojqMVvEM25Voz9HFqdpuwc2Mr1eGrnqX2057YxdFk2hNaoF2oCdLxbbMi_0Tga-0dCnaWQwD_wFPpkz2v6mRcXmxtR4M4zdG0belcx5Lvs0lyM0ATmOqMnwppT9vd4NM0TjkHoszkwOtq7qhvgJK0Z-JgRbJGOX2NLj8g6LXFrHYLBW3DxL2E7QBq&v=404&clicktype=1",
+			"jump": {
+				"des": "m",
+				"srv": "A_0_1_314662_",
+				"shareInfo": {
+					"content": "",
+					"title": "",
+					"avatar": "",
+					"url": ""
+				},
+				"params": {
+					"needLogin": "0",
+					"url": "http://sale.jd.com/m/act/BVx5aencvL6I.html?resourceType=listActivity&resourceValue=A_0_1_314662_"
+				}
+			}
+		}, {
+			"activityId": 0,
+			"sortno": 3,
+			"abt": "1",
+			"title": "促销活动",
+			"wareDisplayType": 0,
+			"horizontalImag": "http://img1.360buyimg.com/da/jfs/t3343/174/262154552/99866/bf0a0e03/58046e44N071f74c7.jpg.webp",
+			"exposalUrl": "",
+			"clickUrl": "http://ccc.x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTE0MzkzNzk1XzE5MDImdG89aHR0cDovL3NhbGUuamQuY29tL2FwcC9hY3Qva21SakhZMVVOb1BBYWdiTC5odG1sP3NoYXJlPXllcw&log=YMR7sbzAW7XTyODIAmJffjdaylfNm8Xz75Oq_5LcfgFXvxttwywYos0zQjuHOqumwDNx2kwgM2GGDZxdQ2Cea9zh9moBEeV0a3WlOjXQZBzdGHpINVxqpauth3Bfrd0cIoPp7c2jXfprJCsvWDI14Fw_PCIYnrSJ35ty1TMm4GRiWLMHJuFgFmsqZu8ahQpviyUHTisBeYaY96aOKWWVR9tu_pijNC898Kzhr6unIJPRHPYKPmCIq__8ZuvmndVGGNEMvhfL0C7PhUc3rMRNQD7Q70xtciKl8RLuIW4v9Dsk2LOmhKmt5mYRqSet-813KpaH5ejOOvdLPpwJeRvGVZ3LZDsbLJqE8SFuvGCeEWMaXnO4nF48jMjcXD20CvObKJoSPQZ9frs2b0ztBHyXG38xBjXHsAc_ev0cTRFUxNXtvmC149aOUwSe1G7SmBN1&v=404&clicktype=1",
+			"jump": {
+				"des": "m",
+				"srv": "A_0_2_14393795_",
+				"shareInfo": {
+					"content": "",
+					"title": "",
+					"avatar": "",
+					"url": ""
+				},
+				"params": {
+					"needLogin": "0",
+					"url": "http://sale.jd.com/app/act/kmRjHY1UNoPAagbL.html?share=yes&resourceType=listActivity&resourceValue=A_0_2_14393795_"
+				}
+			}
+		}, {
+			"activityId": 72098,
+			"sortno": 4,
+			"abt": "",
+			"title": "PLUS尊享盛宴",
+			"wareDisplayType": 0,
+			"horizontalImag": "http://m.360buyimg.com/mobilecms/s750x350_jfs/t3832/151/23766817/177222/1716b19a/5804a1faN092e8af9.jpg!q70.jpg.webp",
+			"exposalUrl": "",
+			"clickUrl": "",
+			"jump": {
+				"des": "m",
+				"srv": "C_0_3_72098_",
+				"shareInfo": {
+					"content": "",
+					"title": "",
+					"avatar": "",
+					"url": ""
+				},
+				"params": {
+					"needLogin": "0",
+					"url": "http://sale.jd.com/app/act/rGWufhFdyDngH7.html?resourceType=listActivity&resourceValue=C_0_3_72098_"
+				}
+			}
+		}, {
+			"activityId": 0,
+			"sortno": 5,
+			"abt": "2",
+			"title": "巾享薄礼满199减100",
+			"wareDisplayType": 0,
+			"horizontalImag": "http://img14.360buyimg.com/da/jfs/t3238/169/3079538260/100015/3f9a039/57ecd031Nef5c5732.jpg.webp",
+			"exposalUrl": "",
+			"clickUrl": "http://ccc.x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTMxMjk0N18xOTAzJnRvPWh0dHA6Ly9zYWxlLmpkLmNvbS9hcHAvYWN0L0JyMDRPREt1Z0huU0ptVU0uaHRtbA&log=YMR7sbzAW7XTyODIAmJffjdaylfNm8Xz75Oq_5LcfgGmWy1COrQ9Nc_cUo94jDI8qsZCfiHFpoMDPXybCqP6CSjtHBnJVRgyoFz7j3OrgaHghk2ffVPC04DndaCiVdez7RPtnrQZ3bJGGFUi1g88OzcBbdZbK2EV0DFEGDr2fu4uZg0UDiY06sGDcLSdEV_6gkCSqUHnirLoVYf2435-8p3nWLyThKeNg90tKj5ZuFFkVOZLVnraoKdM8lpGkVt6aaXkQkv8mQDsDa-IrSQnOdVYdOQtPV747dTZo8wvnFumu7g5RKv2wMOdh7N-qiqQ&v=404&clicktype=1",
+			"jump": {
+				"des": "m",
+				"srv": "A_0_4_312947_",
+				"shareInfo": {
+					"content": "",
+					"title": "",
+					"avatar": "",
+					"url": ""
+				},
+				"params": {
+					"needLogin": "0",
+					"url": "http://sale.jd.com/app/act/Br04ODKugHnSJmUM.html?resourceType=listActivity&resourceValue=A_0_4_312947_"
+				}
+			}
+		}, {
+			"activityId": 72101,
+			"sortno": 6,
+			"abt": "",
+			"title": "图书打底",
+			"wareDisplayType": 0,
+			"horizontalImag": "http://m.360buyimg.com/mobilecms/s750x350_jfs/t3310/268/260097123/132369/ebad9626/5804a568N656c815c.jpg!q70.jpg.webp",
+			"exposalUrl": "",
+			"clickUrl": "",
+			"jump": {
+				"des": "m",
+				"srv": "C_0_5_72101_",
+				"shareInfo": {
+					"content": "",
+					"title": "",
+					"avatar": "",
+					"url": ""
+				},
+				"params": {
+					"needLogin": "0",
+					"url": "http://h5.m.jd.com/active/4FM2WvapE49SzAGLNFAaZiKxzwiw/index.html"
+				}
+			}
+		}, {
+			"activityId": 72117,
+			"sortno": 7,
+			"abt": "",
+			"title": "10.18自有品牌",
+			"wareDisplayType": 0,
+			"horizontalImag": "http://m.360buyimg.com/mobilecms/s750x350_jfs/t3619/3/274964268/442226/1275d298/5804dd41N6082b3c2.jpg!q70.jpg.webp",
+			"exposalUrl": "",
+			"clickUrl": "",
+			"jump": {
+				"des": "m",
+				"srv": "C_0_6_72117_",
+				"shareInfo": {
+					"content": "",
+					"title": "",
+					"avatar": "",
+					"url": ""
+				},
+				"params": {
+					"needLogin": "0",
+					"url": "http://h5.m.jd.com/active/kgM7NmeSeUYEimqzdSxvHAuJqNK/index.html"
+				}
+			}
+		}, {
+			"activityId": 72116,
+			"sortno": 8,
+			"abt": "",
+			"title": "10.18BI电脑办公扫货季",
+			"wareDisplayType": 0,
+			"horizontalImag": "http://m.360buyimg.com/mobilecms/s750x350_jfs/t3481/110/242607878/203695/348f7587/5804d608N26582cbf.jpg!q70.jpg.webp",
+			"exposalUrl": "",
+			"clickUrl": "",
+			"jump": {
+				"des": "m",
+				"srv": "C_0_7_72116_4#3216401e3324a6a0511ad6e15acaf90c38566a5f#20627#0#N",
+				"shareInfo": {
+					"content": "",
+					"title": "",
+					"avatar": "",
+					"url": ""
+				},
+				"params": {
+					"needLogin": "0",
+					"url": "http://h5.m.jd.com/active/nKxVyPnuLwAsQSTfidZ9z4RKVZy/index.html"
+				}
+			}
+		}],
+		"bottomMargin": 0,
+		"showName": "",
+		"type": "banner"
+	}, {
+		"bottomMargin": 0,
+		"content": {
+			"poz": {
+				"time": 1476790884164,
+				"city": "广东:深圳"
+			},
+			"fontColor": null,
+			"time": 1476790987430,
+			"bgPic": null,
+			"data": [{
+				"id": 462,
+				"icon": "http://m.360buyimg.com/mobilecms/s80x80_jfs/t3205/312/4035148908/14046/acfe1fa3/57fdae4aN840d65bf.png",
+				"order": 1,
+				"name": "京东超市",
+				"appCode": "jdsupermarket",
+				"jump": {
+					"des": "babel",
+					"params": {
+						"activityId": "2hqsQcyM5bEUVSStkN3BwrBHqVLd",
+						"needLogin": "0"
+					},
+					"srv": "null_京东超市_null"
+				}
+			}, {
+				"id": 392,
+				"icon": "http://m.360buyimg.com/mobilecms/s80x80_jfs/t3271/119/3849141935/7156/6be928c4/57f9f0a2N5e25b04f.png",
+				"order": 2,
+				"name": "全球购",
+				"appCode": "quanqiugou",
+				"jump": {
+					"des": "m",
+					"params": {
+						"needLogin": "0",
+						"url": "http://h5.m.jd.com/active/2zcV17r3ZSmK4UdiygyegoRL6cND/index.html?has_native=1"
+					},
+					"srv": "null_全球购_null"
+				}
+			}, {
+				"id": 455,
+				"icon": "http://m.360buyimg.com/mobilecms/s80x80_jfs/t3196/320/2228388518/12227/e35aa8d/57de7d0fNf8f8c1a1.png",
+				"order": 3,
+				"name": "服装城",
+				"appCode": "fuzhuangcheng",
+				"jump": {
+					"des": "babel",
+					"params": {
+						"activityId": "3GTca2WsjgRdohGtJCUnWB3bDs8o",
+						"needLogin": "0"
+					},
+					"srv": "null_服装城_null"
+				}
+			}, {
+				"id": 374,
+				"icon": "http://m.360buyimg.com/mobilecms/s80x80_jfs/t3400/163/266382874/17341/7262247/5804a4aaN112c7316.png",
+				"order": 4,
+				"name": "京东生鲜",
+				"appCode": "freshmall",
+				"jump": {
+					"des": "babel",
+					"params": {
+						"activityId": "4Sa8QGJDMDZ66NzYajpSe4GmeUn2",
+						"needLogin": "0"
+					},
+					"srv": "null_京东生鲜_京东生鲜"
+				}
+			}, {
+				"id": 389,
+				"icon": "http://m.360buyimg.com/mobilecms/s80x80_jfs/t3019/194/1290763212/19332/1d2d81dd/57c02580N2b96e477.png",
+				"order": 5,
+				"name": "京东到家",
+				"appCode": "jingdongdaojia",
+				"jump": {
+					"des": "m",
+					"shareInfo": {
+						"type": 2,
+						"title": "京东到家",
+						"content": "京东到家，蔬菜、水果、生鲜2小时达！",
+						"url": "http://pdj.jd.com/html/index.html?channel=jdapp",
+						"avatar": "http://m.360buyimg.com/mobilecms/s80x80_jfs/t2908/295/3924960879/4888/16762d25/57a3131dN55cf8f82.png"
+					},
+					"params": {
+						"needLogin": "0",
+						"url": "http://daojia.jd.com/html/index.html?channel=jdapp"
+					},
+					"srv": "null_京东到家_京东到家"
+				}
+			}, {
+				"id": 381,
+				"icon": "http://m.360buyimg.com/mobilecms/s80x80_jfs/t3121/355/68485960/12255/981e942a/57a30bfbNb46b5e9d.png",
+				"order": 6,
+				"name": "充值中心",
+				"appCode": "chongzhi",
+				"jump": {
+					"des": "chongzhi",
+					"params": {
+						"from": "Applications",
+						"needLogin": "0"
+					},
+					"srv": "null_充值中心_null"
+				}
+			}, {
+				"id": 396,
+				"icon": "http://m.360buyimg.com/mobilecms/s80x80_jfs/t2818/37/4178147025/10078/d6a3aa98/57aacac3N3a67e37c.png",
+				"order": 7,
+				"name": "领京豆",
+				"appCode": "pintu3",
+				"jump": {
+					"des": "m",
+					"params": {
+						"needLogin": "0",
+						"url": "http://ld.m.jd.com/userBeanHomePage/getLoginUserBean.action"
+					},
+					"srv": "null_领京豆_null"
+				}
+			}, {
+				"id": 388,
+				"icon": "http://m.360buyimg.com/mobilecms/s80x80_jfs/t3616/363/290694999/15032/8433c71b/58059d06N4a1bebba.png",
+				"order": 8,
+				"name": "领券",
+				"appCode": "couponcenter",
+				"jump": {
+					"des": "couponcenter",
+					"params": {
+						"needLogin": "0"
+					},
+					"srv": "null_领券_领券"
+				}
+			}, {
+				"id": 321,
+				"icon": "http://m.360buyimg.com/mobilecms/s80x80_jfs/t3262/108/65838319/12008/5c53018a/57a30e18Na8609509.png",
+				"order": 9,
+				"name": "京东金融",
+				"appCode": "redirect1",
+				"jump": {
+					"des": "m",
+					"params": {
+						"needLogin": "0",
+						"url": "https://m.jr.jd.com/spe/qyy/main/index.html?userType=41"
+					},
+					"srv": "null_京东金融_null"
+				}
+			}, {
+				"id": 384,
+				"icon": "http://m.360buyimg.com/mobilecms/s80x80_jfs/t2794/147/3909563278/16871/a81fe3b/57a30f2cN62a16b6d.png",
+				"name": "全部",
+				"appCode": "appcenter",
+				"jump": {
+					"des": "appcenter",
+					"params": {
+						"needLogin": "0"
+					},
+					"srv": "null_全部_全部"
+				}
+			}],
+			"notification": 0,
+			"ynSpace": null
+		},
+		"showName": "",
+		"type": "appcenter"
+	}, {
+		"content": {
+			"announcement": [{
+				"content": "360N4A新品9:30抢！0元赢新",
+				"slogan": "新",
+				"jump": {
+					"des": "m",
+					"srv": "784_0_CMSSH164289_1476790987__0_1______",
+					"shareInfo": {
+						"content": "",
+						"title": "",
+						"avatar": "",
+						"url": ""
+					},
+					"params": {
+						"needLogin": "0",
+						"url": "http://sale.jd.com/app/act/lhyRYJDSTC.html"
+					}
+				}
+			}, {
+				"content": "电视家影，全场低至5折！",
+				"slogan": "爆",
+				"jump": {
+					"des": "m",
+					"srv": "784_1_CMSSH164108_1476790987__0_1_____40_",
+					"shareInfo": {
+						"content": "",
+						"title": "",
+						"avatar": "",
+						"url": ""
+					},
+					"params": {
+						"needLogin": "0",
+						"url": "http://h5.m.jd.com/active/26KknpsCKfFbeXVfno9on9NZ4Kwk/index.html"
+					}
+				}
+			}, {
+				"content": "京东小金库狂送100元现金红包",
+				"slogan": "热",
+				"jump": {
+					"des": "m",
+					"srv": "784_2_CMSSH164112_1476790987__0_1_____40_",
+					"shareInfo": {
+						"content": "",
+						"title": "",
+						"avatar": "",
+						"url": ""
+					},
+					"params": {
+						"needLogin": "0",
+						"url": "http://m.jr.jd.com/udc-active/2016/double11/html/jdapp.html"
+					}
+				}
+			}],
+			"rotate": 3,
+			"img": "http://m.360buyimg.com/mobilecms/jfs/t2287/100/1912340783/3132/ed3dfa0a/56e24ddcN9e8892be.png"
+		},
+		"bottomMargin": 20,
+		"textColor": "",
+		"logoImage": "",
+		"floorId": 784,
+		"showName": "京东快报4模块",
+		"floorOrder": 28,
+		"type": "announcement",
+		"moreJump": {
+			"des": "babel",
+			"srv": 784,
+			"params": {
+				"activityId": "3VtAJRP2joktqGEyTzyF4NEmXEBe"
+			}
+		},
+		"jump": {
+			"des": "",
+			"srv": 784,
+			"shareInfo": {},
+			"params": {}
+		}
+	}, {
+		"bottomMargin": 1,
+		"logoImage": "",
+		"textColor": "",
+		"type": "hybrid",
+		"rightCorner": "",
+		"jump": {
+			"des": "",
+			"srv": 879,
+			"shareInfo": {},
+			"params": {}
+		},
+		"innnerInterval": 0,
+		"content": {
+			"subFloors": [{
+				"data": [{
+					"rcJumpType": 0,
+					"labelAnimation": "0",
+					"labelWords": "",
+					"rcSourceValue": "879_0_CMSSH90979_1476790987_28526_0_1_______RIGHTCORNER_1#1263415f896bc136a660aa8edf60d811607acf83_苹果换新季疯狂购_miaosha",
+					"advert": {},
+					"labelColor": "#F02B2B",
+					"img": "",
+					"rightCorner": "苹果换新季疯狂购",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "miaosha",
+						"srv": "879_0_CMSSH90979_1476790987_28526_0_1_______1#1263415f896bc136a660aa8edf60d811607acf83",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": ""
+						},
+						"params": {}
+					},
+					"id": 90979,
+					"content": {
+						"message": "京东秒杀",
+						"timeRemain": 1015,
+						"sourceValue": "1#1263415f896bc136a660aa8edf60d811607acf83_0_42",
+						"scheme": "B",
+						"indexMiaoSha": [{
+							"wareId": "1842408",
+							"wname": "苏泊尔（SUPOR)电压力锅高压锅 CYSB50YCW21QJ-100球釜内胆",
+							"imageurl": "http://m.360buyimg.com/mobilecms/s152x152_jfs/t2071/236/1686863043/190116/fb633bc6/5667b4e3N32dabb19.jpg!q70.jpg.webp",
+							"good": "",
+							"jdPrice": "499",
+							"book": "false",
+							"promotion": "false",
+							"spuId": "1842408",
+							"adword": "",
+							"message": "",
+							"canBuy": "true",
+							"miaoSha": "true",
+							"rate": "6.0折",
+							"startRemainTime": -6187,
+							"endRemainTime": 80152,
+							"miaoShaPrice": "299",
+							"discount": "200.00",
+							"activeId": "431495491",
+							"canFreeRead": "false",
+							"moreFunId": "searchCatelogy",
+							"cid": "",
+							"cName": "",
+							"expid": "",
+							"index": "",
+							"rid": "",
+							"sourceValue": "42_1_1842408_0_3",
+							"discountNew": "省200元",
+							"promotionId": "192595403",
+							"tagType": 2,
+							"tagText": "热卖",
+							"startTimeShow": "18:00",
+							"resultSort": 3,
+							"colorRGB": "#FF8400",
+							"seckillNum": "2000"
+						}, {
+							"wareId": "954210",
+							"wname": "【京东超市】金龙鱼 葵花籽油 4L",
+							"imageurl": "http://m.360buyimg.com/mobilecms/s152x152_jfs/t1612/232/861864320/76695/3413efbb/55af11a0N186a565d.jpg!q70.jpg.webp",
+							"good": "",
+							"jdPrice": "59.9",
+							"book": "false",
+							"promotion": "false",
+							"spuId": "302010",
+							"adword": "",
+							"message": "",
+							"canBuy": "true",
+							"miaoSha": "true",
+							"rate": "7.9折",
+							"startRemainTime": -6187,
+							"endRemainTime": 80211,
+							"miaoShaPrice": "46.9",
+							"discount": "13.00",
+							"activeId": "432267312",
+							"canFreeRead": "false",
+							"moreFunId": "searchCatelogy",
+							"cid": "",
+							"cName": "",
+							"expid": "",
+							"index": "",
+							"rid": "",
+							"sourceValue": "42_1_954210_1_1#1263415f896bc136a660aa8edf60d811607acf83#20962",
+							"discountNew": "7.9折",
+							"promotionId": "192620387",
+							"startTimeShow": "18:00",
+							"resultSort": 3,
+							"seckillNum": "2000"
+						}, {
+							"wareId": "10737063610",
+							"wname": "【99元3件套】【2件衬衫+送T恤】阿逊特男士秋季新品免烫新款时尚休闲衬衫 藏青衬衫+天蓝衬衫 L",
+							"imageurl": "http://m.360buyimg.com/mobilecms/s152x152_jfs/t3307/90/3012500374/85222/cc766a10/57eb5a93Nde796225.jpg!q70.jpg.webp",
+							"good": "",
+							"jdPrice": "298",
+							"book": "false",
+							"promotion": "false",
+							"spuId": "10142336931",
+							"adword": "",
+							"message": "",
+							"canBuy": "true",
+							"miaoSha": "true",
+							"rate": "3.4折",
+							"startRemainTime": -6187,
+							"endRemainTime": 80211,
+							"miaoShaPrice": "99",
+							"discount": "199.00",
+							"activeId": "431288306",
+							"canFreeRead": "false",
+							"moreFunId": "searchCatelogy",
+							"cid": "",
+							"cName": "",
+							"expid": "",
+							"index": "",
+							"rid": "",
+							"sourceValue": "42_1_10737063610_2_1#1263415f896bc136a660aa8edf60d811607acf83#20962",
+							"discountNew": "省199元",
+							"promotionId": "3380068843",
+							"startTimeShow": "18:00",
+							"resultSort": 3,
+							"seckillNum": "2000"
+						}, {
+							"wareId": "10776854202",
+							"wname": "【新品上市 满2件优惠20元】若奔新款男士商务休闲裤男 619黑色 32(2尺5)",
+							"imageurl": "http://m.360buyimg.com/mobilecms/s152x152_jfs/t3064/247/3790191651/100974/fd723b/57f8684cNffba9d0f.jpg!q70.jpg.webp",
+							"good": "",
+							"jdPrice": "298",
+							"book": "false",
+							"promotion": "false",
+							"spuId": "10146698358",
+							"adword": "",
+							"message": "",
+							"canBuy": "true",
+							"miaoSha": "true",
+							"rate": "3.0折",
+							"startRemainTime": -6187,
+							"endRemainTime": 80152,
+							"miaoShaPrice": "89",
+							"discount": "209.00",
+							"activeId": "429878846",
+							"canFreeRead": "false",
+							"moreFunId": "searchCatelogy",
+							"cid": "",
+							"cName": "",
+							"expid": "",
+							"index": "",
+							"rid": "",
+							"sourceValue": "42_1_10776854202_3_1#1263415f896bc136a660aa8edf60d811607acf83#20962",
+							"discountNew": "省209元",
+							"promotionId": "3365353372",
+							"startTimeShow": "18:00",
+							"resultSort": 3,
+							"seckillNum": "800"
+						}, {
+							"wareId": "10730483348",
+							"wname": "【特惠108元 拍下送T恤 限量999件 2件9折】大码棉衣男士加棉保暖棉服外套 黑色 XL",
+							"imageurl": "http://m.360buyimg.com/mobilecms/s152x152_jfs/t3238/204/3149548751/589807/66106503/57eca345N71a1b3af.jpg!q70.jpg.webp",
+							"good": "",
+							"jdPrice": "299",
+							"book": "false",
+							"promotion": "false",
+							"spuId": "10141429207",
+							"adword": "",
+							"message": "",
+							"canBuy": "true",
+							"miaoSha": "true",
+							"rate": "3.7折",
+							"startRemainTime": -6187,
+							"endRemainTime": 80152,
+							"miaoShaPrice": "108",
+							"discount": "191.00",
+							"activeId": "430216848",
+							"canFreeRead": "false",
+							"moreFunId": "searchCatelogy",
+							"cid": "",
+							"cName": "",
+							"expid": "",
+							"index": "",
+							"rid": "",
+							"sourceValue": "42_1_10730483348_4_1#1263415f896bc136a660aa8edf60d811607acf83#20962",
+							"discountNew": "省191元",
+							"promotionId": "3368171826",
+							"startTimeShow": "18:00",
+							"resultSort": 3,
+							"seckillNum": "1500"
+						}, {
+							"wareId": "10824446675",
+							"wname": "【79元三件  多款可选】智时代2016秋季新品长袖T恤 套餐一.KASE红色+新羽毛蓝色+大熊黑色 XL(160斤以内)",
+							"imageurl": "http://m.360buyimg.com/mobilecms/s152x152_jfs/t3772/35/260737109/327310/545b614f/5804a46cN7513a017.jpg!q70.jpg.webp",
+							"good": "",
+							"jdPrice": "299",
+							"book": "false",
+							"promotion": "false",
+							"spuId": "10152453865",
+							"adword": "",
+							"message": "",
+							"canBuy": "true",
+							"miaoSha": "true",
+							"rate": "2.7折",
+							"startRemainTime": -6187,
+							"endRemainTime": 80152,
+							"miaoShaPrice": "79",
+							"discount": "220.00",
+							"activeId": "434036521",
+							"canFreeRead": "false",
+							"moreFunId": "searchCatelogy",
+							"cid": "",
+							"cName": "",
+							"expid": "",
+							"index": "",
+							"rid": "",
+							"sourceValue": "42_1_10824446675_5_1#1263415f896bc136a660aa8edf60d811607acf83#20962",
+							"discountNew": "省220元",
+							"promotionId": "3413858990",
+							"startTimeShow": "18:00",
+							"resultSort": 3,
+							"seckillNum": "800"
+						}, {
+							"wareId": "10738110401",
+							"wname": "【全球共享 秒杀直降】蒂卡普秋季新款气垫跑步鞋男鞋 复古透气超轻运动鞋慢跑鞋男 男-深蓝 41",
+							"imageurl": "http://m.360buyimg.com/mobilecms/s152x152_jfs/t3103/205/2016011785/75778/1df7a3df/57d8aa97N1d3eb05f.jpg!q70.jpg.webp",
+							"good": "",
+							"jdPrice": "329",
+							"book": "false",
+							"promotion": "false",
+							"spuId": "10142479797",
+							"adword": "",
+							"message": "",
+							"canBuy": "true",
+							"miaoSha": "true",
+							"rate": "3.0折",
+							"startRemainTime": -6187,
+							"endRemainTime": 80211,
+							"miaoShaPrice": "99",
+							"discount": "230.00",
+							"activeId": "432453836",
+							"canFreeRead": "false",
+							"moreFunId": "searchCatelogy",
+							"cid": "",
+							"cName": "",
+							"expid": "",
+							"index": "",
+							"rid": "",
+							"sourceValue": "42_1_10738110401_6_1#1263415f896bc136a660aa8edf60d811607acf83#20962",
+							"discountNew": "省230元",
+							"promotionId": "3392789964",
+							"startTimeShow": "18:00",
+							"resultSort": 3,
+							"seckillNum": "1000"
+						}, {
+							"wareId": "3259541",
+							"wname": "花花公子（PLAYBOY）74725720 男士休闲鞋潮流板鞋英伦高帮运动鞋 咖啡42",
+							"imageurl": "http://m.360buyimg.com/mobilecms/s152x152_jfs/t3277/79/2191338333/223723/ede18c20/57de43b5Na49de690.jpg!q70.jpg.webp",
+							"good": "",
+							"jdPrice": "538",
+							"book": "false",
+							"promotion": "false",
+							"spuId": "3259541",
+							"adword": "",
+							"message": "",
+							"canBuy": "true",
+							"miaoSha": "true",
+							"rate": "2.4折",
+							"startRemainTime": -6187,
+							"endRemainTime": 80211,
+							"miaoShaPrice": "128",
+							"discount": "410.00",
+							"activeId": "431521258",
+							"canFreeRead": "false",
+							"moreFunId": "searchCatelogy",
+							"cid": "",
+							"cName": "",
+							"expid": "",
+							"index": "",
+							"rid": "",
+							"sourceValue": "42_1_3259541_7_1#1263415f896bc136a660aa8edf60d811607acf83#20962",
+							"discountNew": "省410元",
+							"promotionId": "192592046",
+							"startTimeShow": "18:00",
+							"resultSort": 3,
+							"seckillNum": "120"
+						}, {
+							"wareId": "10694944640",
+							"wname": "阿迪达斯男士洁面+男士肌能水/爽肤水+男士润肤霜/男士护肤套装/ (深层洁面+净爽保湿露50g+净爽肌能水)",
+							"imageurl": "http://m.360buyimg.com/mobilecms/s152x152_jfs/t3046/321/3950324911/216051/c1a69c9a/57fb1358N16d9d27e.jpg!q70.jpg.webp",
+							"good": "",
+							"jdPrice": "268",
+							"book": "false",
+							"promotion": "false",
+							"spuId": "10135477175",
+							"adword": "",
+							"message": "",
+							"canBuy": "true",
+							"miaoSha": "true",
+							"rate": "5.2折",
+							"startRemainTime": -6187,
+							"endRemainTime": 80152,
+							"miaoShaPrice": "139",
+							"discount": "129.00",
+							"activeId": "430689362",
+							"canFreeRead": "false",
+							"moreFunId": "searchCatelogy",
+							"cid": "",
+							"cName": "",
+							"expid": "",
+							"index": "",
+							"rid": "",
+							"sourceValue": "42_1_10694944640_8_1#1263415f896bc136a660aa8edf60d811607acf83#20962",
+							"discountNew": "省129元",
+							"promotionId": "3372186453",
+							"startTimeShow": "18:00",
+							"resultSort": 3,
+							"seckillNum": "700"
+						}, {
+							"wareId": "10125719327",
+							"wname": "卡帝乐鳄鱼男士袜子男士四季商务休闲棉袜 舒适透气 商务休闲中筒运动休闲棉袜礼盒装 商务薄款6双装 均码26-28CM",
+							"imageurl": "http://m.360buyimg.com/mobilecms/s152x152_jfs/t2413/29/2563371982/346788/886aba2d/56e63f84N4ae043bd.jpg!q70.jpg.webp",
+							"good": "",
+							"jdPrice": "99",
+							"book": "false",
+							"promotion": "false",
+							"spuId": "1308946656",
+							"adword": "",
+							"message": "",
+							"canBuy": "true",
+							"miaoSha": "true",
+							"rate": "4.1折",
+							"startRemainTime": -6187,
+							"endRemainTime": 80152,
+							"miaoShaPrice": "39.9",
+							"discount": "59.10",
+							"activeId": "430560777",
+							"canFreeRead": "false",
+							"moreFunId": "searchCatelogy",
+							"cid": "",
+							"cName": "",
+							"expid": "",
+							"index": "",
+							"rid": "",
+							"sourceValue": "42_1_10125719327_9_1#1263415f896bc136a660aa8edf60d811607acf83#20962",
+							"discountNew": "4.1折",
+							"promotionId": "3370983559",
+							"startTimeShow": "18:00",
+							"resultSort": 3,
+							"seckillNum": "1000"
+						}, {
+							"wareId": "10560809805",
+							"wname": "【VIP尊享 直降500】【限量200双】日泰男鞋秋季新款休闲鞋鳄鱼纹套脚懒人鞋皮鞋子 男 黑色01 41",
+							"imageurl": "http://m.360buyimg.com/mobilecms/s152x152_jfs/t3244/295/3214611182/251281/c32fa2ed/57ee216eNfef6c7c3.jpg!q70.jpg.webp",
+							"good": "",
+							"jdPrice": "699",
+							"book": "false",
+							"promotion": "false",
+							"spuId": "10115716240",
+							"adword": "",
+							"message": "",
+							"canBuy": "true",
+							"miaoSha": "true",
+							"rate": "2.9折",
+							"startRemainTime": -6187,
+							"endRemainTime": 80211,
+							"miaoShaPrice": "199",
+							"discount": "500.00",
+							"activeId": "432449113",
+							"canFreeRead": "false",
+							"moreFunId": "searchCatelogy",
+							"cid": "",
+							"cName": "",
+							"expid": "",
+							"index": "",
+							"rid": "",
+							"sourceValue": "42_1_10560809805_10_1#1263415f896bc136a660aa8edf60d811607acf83#20962",
+							"discountNew": "省500元",
+							"promotionId": "3392680116",
+							"startTimeShow": "18:00",
+							"resultSort": 3,
+							"seckillNum": "5000"
+						}, {
+							"wareId": "10737261902",
+							"wname": "【一条138元 两条258元】史提夫里Steve Lee 男士直筒中腰牛仔裤 938 34(腰围2尺6)",
+							"imageurl": "http://m.360buyimg.com/mobilecms/s152x152_jfs/t3082/37/2991138766/667408/23a2c790/57eb6503Nc7c8d5f3.jpg!q70.jpg.webp",
+							"good": "",
+							"jdPrice": "599",
+							"book": "false",
+							"promotion": "false",
+							"spuId": "10142364431",
+							"adword": "",
+							"message": "",
+							"canBuy": "true",
+							"miaoSha": "true",
+							"rate": "2.3折",
+							"startRemainTime": -6187,
+							"endRemainTime": 80211,
+							"miaoShaPrice": "138",
+							"discount": "461.00",
+							"activeId": "431948728",
+							"canFreeRead": "false",
+							"moreFunId": "searchCatelogy",
+							"cid": "",
+							"cName": "",
+							"expid": "",
+							"index": "",
+							"rid": "",
+							"sourceValue": "42_1_10737261902_11_1#1263415f896bc136a660aa8edf60d811607acf83#20962",
+							"discountNew": "省461元",
+							"promotionId": "3386073053",
+							"startTimeShow": "18:00",
+							"resultSort": 3,
+							"seckillNum": "120"
+						}, {
+							"wareId": "1139853",
+							"wname": "九阳（Joyoung）JK-30K09多功能电饼铛家用煎烤机双面悬浮烙饼机",
+							"imageurl": "http://m.360buyimg.com/mobilecms/s152x152_jfs/t2746/201/4266876297/84699/f88abb43/57b510f4Nccfd2707.jpg!q70.jpg.webp",
+							"good": "",
+							"jdPrice": "269",
+							"book": "false",
+							"promotion": "false",
+							"spuId": "1139853",
+							"adword": "",
+							"message": "",
+							"canBuy": "true",
+							"miaoSha": "true",
+							"rate": "3.7折",
+							"startRemainTime": -6187,
+							"endRemainTime": 80152,
+							"miaoShaPrice": "99",
+							"discount": "170.00",
+							"activeId": "434252051",
+							"canFreeRead": "false",
+							"moreFunId": "searchCatelogy",
+							"cid": "",
+							"cName": "",
+							"expid": "",
+							"index": "",
+							"rid": "",
+							"sourceValue": "42_1_1139853_12_1#1263415f896bc136a660aa8edf60d811607acf83#20962",
+							"discountNew": "省170元",
+							"promotionId": "192759422",
+							"startTimeShow": "18:00",
+							"resultSort": 3,
+							"seckillNum": "1500"
+						}, {
+							"wareId": "12035464",
+							"wname": "用年表读懂中国史（修订本）",
+							"imageurl": "http://m.360buyimg.com/mobilecms/s152x152_jfs/t3217/329/2021227789/297525/b0c7cebb/57d8fc59N91c34d51.jpg!q70.jpg.webp",
+							"good": "",
+							"jdPrice": "26.3",
+							"book": "false",
+							"promotion": "false",
+							"spuId": "11436702",
+							"adword": "",
+							"message": "",
+							"canBuy": "true",
+							"miaoSha": "true",
+							"rate": "3.8折",
+							"startRemainTime": -6187,
+							"endRemainTime": 80152,
+							"miaoShaPrice": "9.9",
+							"discount": "16.40",
+							"activeId": "430892506",
+							"canFreeRead": "false",
+							"moreFunId": "searchCatelogy",
+							"cid": "",
+							"cName": "",
+							"expid": "",
+							"index": "",
+							"rid": "",
+							"sourceValue": "42_1_12035464_13_1#1263415f896bc136a660aa8edf60d811607acf83#20962",
+							"discountNew": "3.8折",
+							"promotionId": "192534388",
+							"startTimeShow": "18:00",
+							"resultSort": 3,
+							"seckillNum": "1500"
+						}, {
+							"wareId": "1133490",
+							"wname": "【京东超市】玛丽黛佳（MARIEDALGAR）酷黑速干眼线笔  1.0ml（防水不晕染 眼线液笔 清水可卸）",
+							"imageurl": "http://m.360buyimg.com/mobilecms/s152x152_jfs/t2608/256/2352755694/226763/78c5acb5/57621b1dN3414833a.jpg!q70.jpg.webp",
+							"good": "",
+							"jdPrice": "58",
+							"book": "false",
+							"promotion": "false",
+							"spuId": "1133490",
+							"adword": "",
+							"message": "",
+							"canBuy": "true",
+							"miaoSha": "true",
+							"rate": "8.5折",
+							"startRemainTime": -6187,
+							"endRemainTime": 80211,
+							"miaoShaPrice": "49",
+							"discount": "9.00",
+							"activeId": "433970887",
+							"canFreeRead": "false",
+							"moreFunId": "searchCatelogy",
+							"cid": "",
+							"cName": "",
+							"expid": "",
+							"index": "",
+							"rid": "",
+							"sourceValue": "42_1_1133490_14_1#1263415f896bc136a660aa8edf60d811607acf83#20962",
+							"discountNew": "8.5折",
+							"promotionId": "192704009",
+							"startTimeShow": "18:00",
+							"resultSort": 3,
+							"seckillNum": "2000"
+						}, {
+							"wareId": "10701505040",
+							"wname": "【河南馆】灵宝老树带皮原味核桃手剥生核桃新鲜大肉核桃1KG",
+							"imageurl": "http://m.360buyimg.com/mobilecms/s152x152_jfs/t3196/160/2371120413/225764/ad65c969/57e0e8caNfe7409d8.jpg!q70.jpg.webp",
+							"good": "",
+							"jdPrice": "49.9",
+							"book": "false",
+							"promotion": "false",
+							"spuId": "10137288537",
+							"adword": "",
+							"message": "",
+							"canBuy": "true",
+							"miaoSha": "true",
+							"rate": "8.0折",
+							"startRemainTime": -6187,
+							"endRemainTime": 80152,
+							"miaoShaPrice": "39.9",
+							"discount": "10.00",
+							"activeId": "430795312",
+							"canFreeRead": "false",
+							"moreFunId": "searchCatelogy",
+							"cid": "",
+							"cName": "",
+							"expid": "",
+							"index": "",
+							"rid": "",
+							"sourceValue": "42_1_10701505040_15_1#1263415f896bc136a660aa8edf60d811607acf83#20962",
+							"discountNew": "8.0折",
+							"promotionId": "3373676707",
+							"startTimeShow": "18:00",
+							"resultSort": 3,
+							"seckillNum": "4000"
+						}, {
+							"wareId": "2297839",
+							"wname": "华为荣耀路由Pro光纤宽带大户穿墙王1200Mbps有线无线双千兆智能无线路由器",
+							"imageurl": "http://m.360buyimg.com/mobilecms/s152x152_jfs/t2542/276/1222307099/118863/b8e1f12a/5697248aN0970b815.jpg!q70.jpg.webp",
+							"good": "",
+							"jdPrice": "328",
+							"book": "false",
+							"promotion": "false",
+							"spuId": "3555226",
+							"adword": "",
+							"message": "",
+							"canBuy": "true",
+							"miaoSha": "true",
+							"rate": "9.6折",
+							"startRemainTime": -6187,
+							"endRemainTime": 80211,
+							"miaoShaPrice": "315",
+							"discount": "13.00",
+							"activeId": "431817554",
+							"canFreeRead": "false",
+							"moreFunId": "searchCatelogy",
+							"cid": "",
+							"cName": "",
+							"expid": "",
+							"index": "",
+							"rid": "",
+							"sourceValue": "42_1_2297839_16_1#1263415f896bc136a660aa8edf60d811607acf83#20962",
+							"discountNew": "9.6折",
+							"promotionId": "192592645",
+							"startTimeShow": "18:00",
+							"resultSort": 3,
+							"seckillNum": "1000"
+						}, {
+							"wareId": "2271670",
+							"wname": "日本 花王Merries 拉拉裤妙而舒中号 M58片 6-10kg",
+							"imageurl": "http://m.360buyimg.com/mobilecms/s152x152_jfs/t2230/142/2977711163/116691/eeacfc0c/56fe18f9N1aa41a8e.jpg!q70.jpg.webp",
+							"good": "",
+							"jdPrice": "150",
+							"book": "false",
+							"promotion": "false",
+							"spuId": "1938013",
+							"adword": "",
+							"message": "",
+							"canBuy": "true",
+							"miaoSha": "true",
+							"rate": "5.5折",
+							"startRemainTime": -6187,
+							"endRemainTime": 80211,
+							"miaoShaPrice": "82",
+							"discount": "68.00",
+							"activeId": "432605616",
+							"canFreeRead": "false",
+							"moreFunId": "searchCatelogy",
+							"cid": "",
+							"cName": "",
+							"expid": "",
+							"index": "",
+							"rid": "",
+							"sourceValue": "42_1_2271670_17_1#1263415f896bc136a660aa8edf60d811607acf83#20962",
+							"discountNew": "5.5折",
+							"promotionId": "192634892",
+							"startTimeShow": "18:00",
+							"resultSort": 3,
+							"seckillNum": "2000"
+						}],
+						"miaoshaAdvance": 134,
+						"overTime": false,
+						"name": "18点场",
+						"algorithmFrom": "1#1263415f896bc136a660aa8edf60d811607acf83",
+						"nextMiaoshaKey": "201610180000:2000",
+						"functionId": "indexMiaoShaArea"
+					},
+					"showName": "秒杀",
+					"imageType": 1,
+					"subtitle": "",
+					"moduleTitleColor": "",
+					"rcJumpUrl": "http://m.jd.com/",
+					"subtitleColor": "#666666",
+					"rcJumpTo": "miaosha",
+					"showNameImg": "http://m.360buyimg.com/mobilecms/jfs/t3631/330/78710481/7807/dd9134d/57fdff43Nc5f2adbc.png"
+				}],
+				"tpl": "15"
+			}],
+			"subFloorNum": 1
+		},
+		"floorId": 879,
+		"showName": "超级秒杀",
+		"verticalInterval": 0,
+		"floorOrder": 30,
+		"head": 0
+	}, {
+		"bottomMargin": 0,
+		"logoImage": "",
+		"textColor": "",
+		"type": "hybrid",
+		"rightCorner": "",
+		"jump": {
+			"des": "",
+			"srv": 928,
+			"shareInfo": {},
+			"params": {}
+		},
+		"innnerInterval": 0,
+		"content": {
+			"subFloors": [{
+				"data": [{
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3316/229/190426040/57094/5eedc6a5/58042d98Nc23cdd68.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "928_0_CMSSH164093_1476790987_309190_0_1_____181_",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://sale.jd.com/app/act/0qTVBxZ8MpKYE.html"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://sale.jd.com/app/act/0qTVBxZ8MpKYE.html"
+						}
+					},
+					"id": 164093,
+					"content": {},
+					"showName": "黑电左",
+					"imageType": 0,
+					"subtitle": "",
+					"hotPicAnimation": 0,
+					"moduleTitleColor": "",
+					"subtitleColor": ""
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3424/321/135133920/119878/9ceb8ae8/58042e78N89ee7ba9.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "928_0_CMSSH164097_1476790987_309194_0_1_____181_",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/26KknpsCKfFbeXVfno9on9NZ4Kwk/index.html"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/26KknpsCKfFbeXVfno9on9NZ4Kwk/index.html"
+						}
+					},
+					"id": 164097,
+					"content": {},
+					"showName": "黑电主会场",
+					"imageType": 0,
+					"subtitle": "",
+					"hotPicAnimation": 0,
+					"moduleTitleColor": "",
+					"subtitleColor": ""
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3394/97/249303456/78297/58178f7d/58042f35N0259d3c2.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "928_0_CMSSH164101_1476790987_309198_0_1_____181_",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://sale.jd.com/app/act/5hqJ2fkOIP6gL.html"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://sale.jd.com/app/act/5hqJ2fkOIP6gL.html"
+						}
+					},
+					"id": 164101,
+					"content": {},
+					"showName": "黑电右",
+					"imageType": 0,
+					"subtitle": "",
+					"hotPicAnimation": 0,
+					"moduleTitleColor": "",
+					"subtitleColor": ""
+				}],
+				"tpl": "05005"
+			}],
+			"subFloorNum": 1
+		},
+		"floorId": 928,
+		"showName": "战略通栏一切三",
+		"verticalInterval": 1,
+		"floorOrder": 32,
+		"head": 0
+	}, {
+		"bottomMargin": 1,
+		"logoImage": "",
+		"textColor": "",
+		"type": "hybrid",
+		"rightCorner": "",
+		"jump": {
+			"des": "",
+			"srv": 1904,
+			"shareInfo": {},
+			"params": {}
+		},
+		"innnerInterval": 1,
+		"content": {
+			"subFloors": [{
+				"data": [{
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/n1/s280x280_jfs/t3223/128/1148387463/229148/e421ac4a/57c6f331N1d33b7fa.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "worthbuy_list",
+						"srv": "1904_0_CMSSH163071_1476790987_307011_0_1____1609081#5_43_1#4#ABTest-10093-B-0#74681#1609081",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": ""
+						},
+						"params": {
+							"innerAnchor": "1609081",
+							"innerExtId": ""
+						}
+					},
+					"id": 163071,
+					"content": {},
+					"showName": "发现好货",
+					"imageType": 2,
+					"subtitle": "",
+					"moduleTitleColor": "",
+					"bgImg": "http://m.360buyimg.com/mobilecms/jfs/t3058/161/4071764692/42570/a8e7e476/57fddd80N03efb1a3.jpg!q70.jpg.webp",
+					"subtitleColor": ""
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/n1/s280x280_jfs/t1951/274/1463915660/157712/5fb4300b/56ad84cbN6ead7df5.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "native_storetrend",
+						"srv": "1904_0_CMSSH163677_1476790987_308236_0_1____1765507154#6_44_1#5#ABTest-10094-B-0#75140#1765507154",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": ""
+						},
+						"params": {
+							"innerAnchor": "1765507154",
+							"from": "Home",
+							"innerExtId": "60545156"
+						}
+					},
+					"id": 163677,
+					"content": {},
+					"showName": "品牌头条",
+					"imageType": 2,
+					"subtitle": "",
+					"moduleTitleColor": "",
+					"bgImg": "http://m.360buyimg.com/mobilecms/jfs/t3046/161/1711113617/26138/e01c3e00/57d24988Nb4f829bb.jpg!q70.jpg.webp",
+					"subtitleColor": ""
+				}],
+				"tpl": "05003"
+			}],
+			"subFloorNum": 1
+		},
+		"floorId": 1904,
+		"showName": "促销楼层",
+		"verticalInterval": 1,
+		"floorOrder": 43,
+		"head": 0
+	}, {
+		"bottomMargin": 0,
+		"logoImage": "",
+		"textColor": "",
+		"type": "hybrid",
+		"rightCorner": "",
+		"jump": {
+			"des": "",
+			"srv": 1297,
+			"shareInfo": {},
+			"params": {}
+		},
+		"innnerInterval": 1,
+		"content": {
+			"subFloors": [{
+				"data": [{
+					"labelAnimation": "1",
+					"labelWords": "轻松享好物",
+					"labelColor": "#ff4a7d",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3334/172/266672417/40224/c2690796/5804a9f3N3be5b8a9.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "RankingMain",
+						"srv": "1297_0_CMSSH164184_1476790987_309655#1_0_1__ABTest-10032-C-0-channelpic___46_",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": ""
+						},
+						"params": {
+							"fromName": "Home"
+						}
+					},
+					"id": 164184,
+					"content": {},
+					"showName": "排行榜",
+					"imageType": 1,
+					"subtitle": "热卖爆品省心购",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}, {
+					"labelAnimation": "1",
+					"labelWords": "秒杀9.9元",
+					"labelColor": "#ff4a7d",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3112/273/3215526425/129430/e2b5386d/57ed0850Na9b755db.png!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "1297_0_CMSSH164260_1476790987_309592#3_0_1__ABTest-10032-C-0-channelpic____",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://red.m.jd.com/app/index.html"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://red.m.jd.com/app/index.html"
+						}
+					},
+					"id": 164260,
+					"content": {},
+					"showName": "闪购",
+					"imageType": 1,
+					"subtitle": "闪购今日必杀",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}],
+				"tpl": "05003"
+			}],
+			"subFloorNum": 1
+		},
+		"floorId": 1297,
+		"showName": "促销楼层",
+		"verticalInterval": 1,
+		"floorOrder": 44,
+		"head": 0
+	}, {
+		"bottomMargin": 0,
+		"logoImage": "http://m.360buyimg.com/mobilecms/s186x65_jfs/t2860/342/3411746757/10925/6b74bfe5/578de2d4N0499fe1a.png!q70.jpg",
+		"textColor": "#ff4a7d",
+		"type": "hybrid",
+		"rightCorner": "",
+		"jump": {
+			"des": "",
+			"srv": 1252,
+			"shareInfo": {},
+			"params": {}
+		},
+		"innnerInterval": 1,
+		"content": {
+			"subFloors": [{
+				"data": [{
+					"labelAnimation": "0",
+					"labelWords": "抢购中",
+					"labelColor": "#ff4a7d",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3652/165/264677790/17877/99c6bb71/5804d65cNa0ae5576.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "babel",
+						"srv": "1252_0_CMSSH164419_1476790987_309872_0_1______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": ""
+						},
+						"params": {
+							"activityId": "3wX17ys13EaDtijVP6KnfrBucNhV"
+						}
+					},
+					"id": 164419,
+					"content": {},
+					"showName": "玩3C",
+					"imageType": 1,
+					"subtitle": "360N4A新品",
+					"moduleTitleColor": "",
+					"subtitleColor": "#ff4a7d"
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3244/362/1383266587/24009/9a19413c/57ccd4f9Ne20e55a4.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "babel",
+						"srv": "1252_0_CMSSH164443_1476790987_309917#2_0_1__ABTest-10032-C-0-channelpic___57_",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/vsJurNMLwnnt9eECbAT2kb4PJe7/index.html"
+						},
+						"params": {
+							"activityId": "vsJurNMLwnnt9eECbAT2kb4PJe7"
+						}
+					},
+					"id": 164443,
+					"content": {},
+					"showName": "京东家电",
+					"imageType": 1,
+					"subtitle": "抢5折",
+					"moduleTitleColor": "",
+					"subtitleColor": "#ff4a7d"
+				}],
+				"tpl": "05003"
+			}, {
+				"data": [{
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3568/360/273338970/42818/9c1f350/5804ba74N40cf5e8a.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "babel",
+						"srv": "1252_0_CMSSH164312_1476790987_309735_0_1______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": ""
+						},
+						"params": {
+							"activityId": "2hqsQcyM5bEUVSStkN3BwrBHqVLd"
+						}
+					},
+					"id": 164312,
+					"content": {},
+					"showName": "京东超市",
+					"imageType": 1,
+					"subtitle": "9元券免费领",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}, {
+					"labelAnimation": "0",
+					"labelWords": "12期免息购",
+					"labelColor": "#ff4a7d",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3466/74/278129016/10378/b6b88529/5804ca0aN4bf0b9a4.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "1252_0_CMSSH164411_1476790987_309860_0_1_____65_",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/3ERYagkof4iRKmjzVYcxUE7tM8L8/index.html"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/3ERYagkof4iRKmjzVYcxUE7tM8L8/index.html"
+						}
+					},
+					"id": 164411,
+					"content": {},
+					"showName": "爱家",
+					"imageType": 1,
+					"subtitle": "买家具打白条",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}],
+				"tpl": "05003"
+			}, {
+				"data": [{
+					"labelAnimation": "0",
+					"labelWords": "抢大牌",
+					"labelColor": "#ff4a7d",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3055/125/1865853295/23478/b58f2e3a/57d641dcN0b40223b.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "1252_0_CMSSH164257_1476790987_309581_0_1______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/odgLvES1dsSr2gDD79sDGBELvSo/index.html"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/odgLvES1dsSr2gDD79sDGBELvSo/index.html"
+						}
+					},
+					"id": 164257,
+					"content": {},
+					"showName": "爱宝宝",
+					"imageType": 1,
+					"subtitle": "满150减50",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3013/78/1386076325/40585/c7bea484/57c3f393Nce46f8e3.png!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "1252_0_CMSSH164176_1476790987_309489_0_1______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/2QYwVrMZEDdfuAjGRVDHD4fLs69A/index.html?has_native=1"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/2QYwVrMZEDdfuAjGRVDHD4fLs69A/index.html?has_native=1"
+						}
+					},
+					"id": 164176,
+					"content": {},
+					"showName": "爱美丽",
+					"imageType": 1,
+					"subtitle": "低至199-100",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}, {
+					"labelAnimation": "0",
+					"labelWords": "￥69.9",
+					"labelColor": "#ff4a7d",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3355/73/292267090/92422/b22945ca/58058f45N0982803b.png!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "babel",
+						"srv": "1252_0_CMSSH164314_1476790987_309954_0_1_____77_",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": ""
+						},
+						"params": {
+							"activityId": "3xwYQ54Lg9o6sbU5WwV4ACi1VVT8"
+						}
+					},
+					"id": 164314,
+					"content": {},
+					"showName": "爱吃",
+					"imageType": 1,
+					"subtitle": "安慕希16盒",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3685/112/256732399/30949/45d1d405/58043786Ndb1bbb30.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "babel",
+						"srv": "1252_0_CMSSH164295_1476790987_309705_0_1______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": ""
+						},
+						"params": {
+							"activityId": "49zPJ9HagL8mMA4FCha2vbZ2Rhao"
+						}
+					},
+					"id": 164295,
+					"content": {},
+					"showName": "爱逛",
+					"imageType": 1,
+					"subtitle": "满399减100",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}],
+				"tpl": "05007"
+			}],
+			"subFloorNum": 3
+		},
+		"floorId": 1252,
+		"showName": "爱生活",
+		"verticalInterval": 1,
+		"floorOrder": 45,
+		"head": 1
+	}, {
+		"bottomMargin": 0,
+		"logoImage": "",
+		"textColor": "",
+		"type": "hybrid",
+		"rightCorner": "",
+		"jump": {
+			"des": "",
+			"srv": 1305,
+			"shareInfo": {},
+			"params": {}
+		},
+		"innnerInterval": 1,
+		"content": {
+			"subFloors": [{
+				"data": [{
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3787/228/152940723/199158/6f62aee4/5804b84dN83272301.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "1305_0_CMSSH164308_1476790987_309729_0_1_____157_",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/3oqGbqzXEjWLTEQx2DsyfEWYtKiy/index.html"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/3oqGbqzXEjWLTEQx2DsyfEWYtKiy/index.html"
+						}
+					},
+					"id": 164308,
+					"content": {},
+					"showName": "防霾大作战",
+					"imageType": 0,
+					"subtitle": "",
+					"moduleTitleColor": "",
+					"subtitleColor": ""
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://img1.360buyimg.com/da/jfs/t3229/137/4120289636/100139/cd95cc28/5800b9a0N44c91e03.jpg.webp",
+					"exposalUrl": "",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "2_0_0_316346_1",
+						"params": {
+							"url": "http://sale.jd.com/m/act/Z7Y5wujRAb.html"
+						}
+					},
+					"id": 133972,
+					"content": {},
+					"abt": "2",
+					"showName": "促销活动",
+					"imageType": 0,
+					"subtitle": "",
+					"clickUrl": "http://ccc.x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTMxNjM0Nl8yMzEyJnRvPWh0dHA6Ly9zYWxlLmpkLmNvbS9tL2FjdC9aN1k1d3VqUkFiLmh0bWw&log=YMR7sbzAW7XTyODIAmJffjdaylfNm8Xz75Oq_5LcfgGsqgcooWoUXE4AzmDjGRiMX0LzlL8bSKitKJRDhzUrdS29ReoL7zomDHJ-tDUxiM-YabYszWhhcTDBWUPAtbcK49qtioCuCTNGEtOqDiaSLhoqTgJjdnRp3Zeu1do5f2H-oISiUait887DwhcTbg-eT_vZruS1CU-peBpFPe8jMSzNft623estrkhIysHZwA3NnRSz92utqMprxtOZ_Kzx4AjdwdD0tWaCYhNggAJVk2fELZa_60yEBQ3oe22Eck8lIk2kZFIEwmBYdpbzeJTG&v=404&clicktype=1",
+					"moduleTitleColor": "",
+					"subtitleColor": ""
+				}],
+				"tpl": "05013"
+			}],
+			"subFloorNum": 1
+		},
+		"floorId": 1305,
+		"showName": "二楼通栏",
+		"verticalInterval": 0,
+		"floorOrder": 47,
+		"head": 0
+	}, {
+		"bottomMargin": 0,
+		"logoImage": "http://m.360buyimg.com/mobilecms/s186x65_jfs/t2851/237/3517988843/9982/7a5615b7/578de560N61f63355.png!q70.jpg",
+		"textColor": "#952dff",
+		"type": "hybrid",
+		"rightCorner": "",
+		"jump": {
+			"des": "",
+			"srv": 1254,
+			"shareInfo": {},
+			"params": {}
+		},
+		"innnerInterval": 1,
+		"content": {
+			"subFloors": [{
+				"data": [{
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3670/124/246642142/12285/c74528c8/580479e6N13a52ff7.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "1254_0_CMSSH164145_1476790987_309418#3_0_1__ABTest-10032-C-0-channelpic____",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/26VAucytMiAU9gxJrogPooEF6h5c/index.html?has_native=1"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/26VAucytMiAU9gxJrogPooEF6h5c/index.html?has_native=1"
+						}
+					},
+					"id": 164145,
+					"content": {},
+					"showName": "全球购自营",
+					"imageType": 1,
+					"subtitle": "虎牌品质暖冬价",
+					"moduleTitleColor": "",
+					"subtitleColor": "#952dff"
+				}, {
+					"labelAnimation": "1",
+					"labelWords": "经典一表心意",
+					"labelColor": "#952dff",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3415/97/236848529/52977/3c46e204/58049081N892443da.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "1254_0_CMSSH164154_1476790987_309437#2_0_1__ABTest-10032-C-0-channelpic____",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/3Z9whzYGExieBAb5or16SbAu5kof/index.html?has_native=1"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/3Z9whzYGExieBAb5or16SbAu5kof/index.html?has_native=1"
+						}
+					},
+					"id": 164154,
+					"content": {},
+					"showName": "环球时尚",
+					"imageType": 1,
+					"subtitle": "爆款2件6折",
+					"moduleTitleColor": "",
+					"subtitleColor": "#952dff"
+				}],
+				"tpl": "05003"
+			}, {
+				"data": [{
+					"labelAnimation": "0",
+					"labelWords": "低至24期免息",
+					"labelColor": "#952dff",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3841/88/16142345/40346/c422f25f/58048ebbN37e0af14.JPG!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "babel",
+						"srv": "1254_0_CMSSH164146_1476790987_309424_0_1_____86_",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": ""
+						},
+						"params": {
+							"activityId": "39tRxwbWYm9g9kA4YUUuesBd8Xmb"
+						}
+					},
+					"id": 164146,
+					"content": {},
+					"showName": "健康运动",
+					"imageType": 1,
+					"subtitle": "运动大牌免息",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3085/224/4150786490/26046/5630b249/58009e66N8092e402.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "babel",
+						"srv": "1254_0_CMSSH164342_1476790987_309769_0_1______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": ""
+						},
+						"params": {
+							"activityId": "nesEYxmWJ9qWBakbB4XHGUvibN8"
+						}
+					},
+					"id": 164342,
+					"content": {},
+					"showName": "奢品大牌",
+					"imageType": 1,
+					"subtitle": "飞亚达航天纪念",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}],
+				"tpl": "05003"
+			}, {
+				"data": [{
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3466/221/67882367/17766/27c5ba22/57fde464Nb850b7db.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "babel",
+						"srv": "1254_0_CMSSH163554_1476790987_308048#3_0_1__ABTest-10032-C-0-channelpic___90_",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": ""
+						},
+						"params": {
+							"activityId": "3ZPQ7sqygdsEPzLqwKGs6pJRsJ7D"
+						}
+					},
+					"id": 163554,
+					"content": {},
+					"showName": "珠宝首饰",
+					"imageType": 1,
+					"subtitle": "周大福铂金项链",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}, {
+					"labelAnimation": "0",
+					"labelWords": "显高显瘦穿搭",
+					"labelColor": "#952dff",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3763/37/143594209/91279/e35d976b/5800c0a2N314c76c1.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "1254_0_CMSSH163701_1476790987_308311_0_1______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://faner.m.jd.com/"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://faner.m.jd.com/"
+						}
+					},
+					"id": 163701,
+					"content": {},
+					"showName": "达人精选",
+					"imageType": 1,
+					"subtitle": "小个子穿衣经",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}],
+				"tpl": "05003"
+			}],
+			"subFloorNum": 3
+		},
+		"floorId": 1254,
+		"showName": "享品质",
+		"verticalInterval": 1,
+		"floorOrder": 53,
+		"head": 1
+	}, {
+		"bottomMargin": 0,
+		"logoImage": "",
+		"textColor": "",
+		"type": "hybrid",
+		"rightCorner": "",
+		"jump": {
+			"des": "",
+			"srv": 1306,
+			"shareInfo": {},
+			"params": {}
+		},
+		"innnerInterval": 1,
+		"content": {
+			"subFloors": [{
+				"data": [{
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3682/227/139303729/151982/57dcfdbe/580089b5N32c530d8.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "1306_0_CMSSH163512_1476790987_307884_0_1______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/4QGzJEz5jnsK3UHMsrSevzcveCB8/index.html"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/4QGzJEz5jnsK3UHMsrSevzcveCB8/index.html"
+						}
+					},
+					"id": 163512,
+					"content": {},
+					"showName": "京东秋收季",
+					"imageType": 0,
+					"subtitle": "",
+					"moduleTitleColor": "",
+					"subtitleColor": ""
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://img1.360buyimg.com/da/jfs/t3559/129/136924526/78761/791ce092/58003587Na4063234.jpg.webp",
+					"exposalUrl": "",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "2_0_0_315929_1",
+						"params": {
+							"url": "http://sale.jd.com/m/act/HcUqe1jASMPn3QW.html"
+						}
+					},
+					"id": 133973,
+					"content": {},
+					"abt": "2",
+					"showName": "促销活动",
+					"imageType": 0,
+					"subtitle": "",
+					"clickUrl": "http://ccc.x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTMxNTkyOV8yMzEzJnRvPWh0dHA6Ly9zYWxlLmpkLmNvbS9tL2FjdC9IY1VxZTFqQVNNUG4zUVcuaHRtbA&log=YMR7sbzAW7XTyODIAmJffjdaylfNm8Xz75Oq_5LcfgGcFN8NZvuyGDLQ1viAi4FjOT6Q2fnVC8cacqNk_9Rp8JfsXifitY9lfXRf4_c5Ej9U_GSmhXkO5kuDXVt1yxj08GdIjLgDg6LT8e19_N3Khm6pBvUrhF999NU_A_SQZajZZeyZO9hWNlOE-nsz7UaKnwEIMOT77YT1vo9S6205hnGUYegTwQtXEQbRznIX3KxCHjdkxU8f7vFhnsEdWbRnUJwyQo4GZD2yM3I393ZYe0_J8S8bYeFxO2xN8dARjj5yOPWMpaCeNfBLU-gR1gS4&v=404&clicktype=1",
+					"moduleTitleColor": "",
+					"subtitleColor": ""
+				}],
+				"tpl": "05013"
+			}],
+			"subFloorNum": 1
+		},
+		"floorId": 1306,
+		"showName": "四楼通栏",
+		"verticalInterval": 0,
+		"floorOrder": 57,
+		"head": 0
+	}, {
+		"bottomMargin": 0,
+		"logoImage": "http://m.360buyimg.com/mobilecms/s186x65_jfs/t2833/7/3455839951/10547/d43782b5/578de70eNb34ad9de.png!q70.jpg",
+		"textColor": "#0072f2",
+		"type": "hybrid",
+		"rightCorner": "",
+		"jump": {
+			"des": "",
+			"srv": 2062,
+			"shareInfo": {},
+			"params": {}
+		},
+		"innnerInterval": 1,
+		"content": {
+			"subFloors": [{
+				"data": [{
+					"labelAnimation": "1",
+					"labelWords": "送￥999音响",
+					"labelColor": "#0072f2",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t2629/94/3844201807/37369/adafee11/579b2573N3bd4dd6f.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "2062_0_CMSSH164414_1476790987_309866_0_1______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/3YjE5fCvUjiVj712wstNRF9V9QJp/index.html?has_native=1"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/3YjE5fCvUjiVj712wstNRF9V9QJp/index.html?has_native=1"
+						}
+					},
+					"id": 164414,
+					"content": {},
+					"showName": "智能生活",
+					"imageType": 1,
+					"subtitle": "超级品类日",
+					"moduleTitleColor": "",
+					"subtitleColor": "#0072f2"
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3817/68/22441710/10788/1b27737b/5804c57cN962266d7.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "2062_0_CMSSH164407_1476790987_309847#2_0_1__ABTest-10032-C-0-channelpic____",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/4EeRq5yD6YgDYEvSbx8XdaAedSDq/index.html?has_native=1"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/4EeRq5yD6YgDYEvSbx8XdaAedSDq/index.html?has_native=1"
+						}
+					},
+					"id": 164407,
+					"content": {},
+					"showName": "白条商城",
+					"imageType": 1,
+					"subtitle": "日付低至1元",
+					"moduleTitleColor": "",
+					"subtitleColor": "#0072f2"
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3430/275/259727769/18164/4693e85a/5804b1d7N094d449d.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "2062_0_CMSSH164294_1476790987_309701#3_0_1__ABTest-10032-C-0-channelpic____",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://z.m.jd.com/aggregateIndex.html"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://z.m.jd.com/aggregateIndex.html"
+						}
+					},
+					"id": 164294,
+					"content": {},
+					"showName": "京东众筹",
+					"imageType": 1,
+					"subtitle": "炫酷街车",
+					"moduleTitleColor": "",
+					"subtitleColor": "#0072f2"
+				}],
+				"tpl": "05012"
+			}, {
+				"data": [{
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3841/255/56477003/100316/14bbd91b/5805e2a2N7dfb31e5.png!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "2062_0_CMSSH164405_1476790987_309843_0_1______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/3WPVr5qZ5x11CJjgDgkwFjtk2eRH/index.html?has_native=1"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/3WPVr5qZ5x11CJjgDgkwFjtk2eRH/index.html?has_native=1"
+						}
+					},
+					"id": 164405,
+					"content": {},
+					"showName": "团购",
+					"imageType": 1,
+					"subtitle": "电视1分起",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}, {
+					"labelAnimation": "0",
+					"labelWords": "特价",
+					"labelColor": "#0072f2",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3562/351/239015441/38390/489eee20/58037b3bNfadd7b7c.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "2062_0_CMSSH164050_1476790987_309111_0_1______",
+						"shareInfo": {
+							"content": "品质游全球！特价机票、品牌酒店、旅游度假、签证、门票、租车……尽在京东旅行！",
+							"title": "京东旅行",
+							"avatar": "http://m.360buyimg.com/mobilecms/jfs/t2728/136/3800755111/8490/a622c93c/579b1f9fN1640b1e7.jpg",
+							"url": "http://trip.m.jd.com/"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://trip.m.jd.com/"
+						}
+					},
+					"id": 164050,
+					"content": {},
+					"showName": "京东旅行",
+					"imageType": 1,
+					"subtitle": "门票买1赠1",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3640/74/268706395/34891/6c81be36/5804cbe5Nf91cce6a.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "2062_0_CMSSH164415_1476790987_309868_0_1______",
+						"shareInfo": {
+							"content": "提供全国电影票在线选座、演唱会、音乐会、话剧、体育赛事等，一站式购票体验！",
+							"title": "京东电影娱乐",
+							"avatar": "http://m.360buyimg.com/mobilecms/jfs/t2674/260/3847337261/9667/f7c81538/579b20faNb6cc441e.jpg",
+							"url": "http://m-movie.jd.com/va/index.html#!/"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://m-movie.jd.com/va/index.html#!/"
+						}
+					},
+					"id": 164415,
+					"content": {},
+					"showName": "电影娱乐",
+					"imageType": 1,
+					"subtitle": "看大片￥19.9",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}],
+				"tpl": "05012"
+			}, {
+				"data": [{
+					"labelAnimation": "0",
+					"labelWords": "做保养",
+					"labelColor": "#0072f2",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3784/90/143615621/26026/1b945c07/5800ce76N157623ae.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "2062_0_CMSSH163810_1476790987_308602_0_1_____108_",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/dj6us2JJRLMMBb4iDaSK4wxvBMt/index.html"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/dj6us2JJRLMMBb4iDaSK4wxvBMt/index.html"
+						}
+					},
+					"id": 163810,
+					"content": {},
+					"showName": "爱车生活",
+					"imageType": 1,
+					"subtitle": "添加剂低价抢",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}, {
+					"labelAnimation": "0",
+					"labelWords": "仅84.9",
+					"labelColor": "#0072f2",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3748/128/304955554/22349/faf0fc19/5805d086N0d23c21c.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "2062_0_CMSSH164299_1476790987_310057_0_1_____183_",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "https://mup.jd.com/accompany?entrance=app_sy_gts_a"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "https://mup.jd.com/accompany?entrance=app_sy_gts_a"
+						}
+					},
+					"id": 164299,
+					"content": {},
+					"showName": "陪伴宝宝",
+					"imageType": 1,
+					"subtitle": "花王专享价",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3622/91/145221055/36293/314102c5/58047eddN908d8cbb.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "babel",
+						"srv": "2062_0_CMSSH156751_1476790987_288295_0_1_____32_",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": ""
+						},
+						"params": {
+							"activityId": "EGJrsLfMN51LYvzHWveq7m2fFb6"
+						}
+					},
+					"id": 156751,
+					"content": {},
+					"showName": "清仓二手",
+					"imageType": 1,
+					"subtitle": "1折起",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3370/267/233043793/88331/b8695c8a/58038acaN5ca99b8d.png!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "2062_0_CMSSH164071_1476790987_309140_0_1_____110_",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://mauction.jd.com/home.html?page=4&sTop=0"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://mauction.jd.com/home.html?page=4&sTop=0"
+						}
+					},
+					"id": 164071,
+					"content": {},
+					"showName": "京东拍卖",
+					"imageType": 1,
+					"subtitle": "艺术精品抢拍",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}],
+				"tpl": "05007"
+			}],
+			"subFloorNum": 3
+		},
+		"floorId": 2062,
+		"showName": "购特色",
+		"verticalInterval": 1,
+		"floorOrder": 64,
+		"head": 1
+	}, {
+		"bottomMargin": 0,
+		"logoImage": "",
+		"textColor": "",
+		"type": "hybrid",
+		"rightCorner": "",
+		"jump": {
+			"des": "",
+			"srv": 1307,
+			"shareInfo": {},
+			"params": {}
+		},
+		"innnerInterval": 1,
+		"content": {
+			"subFloors": [{
+				"data": [{
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3535/262/280933708/137743/f1a70982/5804c13cN1a0bd2d1.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "1307_0_CMSSH164327_1476790987_309754_0_1______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://sale.jd.com/app/act/k4jtDyRhGulr0SC.html"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://sale.jd.com/app/act/k4jtDyRhGulr0SC.html"
+						}
+					},
+					"id": 164327,
+					"content": {},
+					"showName": "冰洗提前抢",
+					"imageType": 0,
+					"subtitle": "",
+					"moduleTitleColor": "",
+					"subtitleColor": ""
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://img20.360buyimg.com/da/jfs/t3799/124/72246477/92295/cc2ea504/57fdcc14Nfb3f4c2c.jpg.webp",
+					"exposalUrl": "",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "2_0_0_315177_1",
+						"params": {
+							"url": "http://sale.jd.com/m/act/1jdJHV85gxm7qpcD.html"
+						}
+					},
+					"id": 133974,
+					"content": {},
+					"abt": "2",
+					"showName": "促销活动",
+					"imageType": 0,
+					"subtitle": "",
+					"clickUrl": "http://ccc.x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTMxNTE3N18yMzE0JnRvPWh0dHA6Ly9zYWxlLmpkLmNvbS9tL2FjdC8xamRKSFY4NWd4bTdxcGNELmh0bWw&log=YMR7sbzAW7XTyODIAmJffjdaylfNm8Xz75Oq_5LcfgFpxhII_ik-Dfr14as_bdW9COzEXkE-shkX-P_NkIO1BS3d7SbQL2jXYPS1t4XoT3IFkstIh1juJl-7T2N_kgRbReqA73WoAtoPJ7urYpSohavIXLr4aJmhQbUEE-4T2V12IHxAZNL6PsRPmE6D31vZIG8-CZKWMl58GiKSICnt_YEiSmcqYVqxwmW1fWQNuyaCns0kVcNy36el9IIy8WsQmUzNH6VNTyFhRvA_kUGkL5J3FuchbbitK-mJlhRKzAYvXy5SydLh7ZZnshtAO6Zz&v=404&clicktype=1",
+					"moduleTitleColor": "",
+					"subtitleColor": ""
+				}],
+				"tpl": "05013"
+			}],
+			"subFloorNum": 1
+		},
+		"floorId": 1307,
+		"showName": "五楼通栏",
+		"verticalInterval": 0,
+		"floorOrder": 67,
+		"head": 0
+	}, {
+		"bottomMargin": 1,
+		"logoImage": "http://m.360buyimg.com/mobilecms/s186x65_jfs/t2737/205/3419253341/12867/8aae7dbb/578de907N276283e1.png!q70.jpg",
+		"textColor": "#7b1aff",
+		"type": "hybrid",
+		"rightCorner": "更多热门",
+		"jump": {
+			"des": "newthemestreet",
+			"srv": 1641,
+			"shareInfo": {},
+			"params": {}
+		},
+		"innnerInterval": 1,
+		"content": {
+			"subFloors": [{
+				"data": [{
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/n1/s280x280_jfs/t3097/308/2709548919/236748/e5c63854/57e4d7f9N9d8b12bf.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "1641_0_CMSSH164336_1476790987_309763_0_1____2200381#1_118_1#8279fa2c175e997da4e3277ce75034215f1e2e97#75389#2200381",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/2J8vapnDJzUzCFm2P1iXREueubKG/index.html?has_native=1"
+						},
+						"params": {
+							"innerAnchor": "2200381",
+							"needLogin": "0",
+							"innerExtId": "00030338",
+							"url": "http://h5.m.jd.com/active/2J8vapnDJzUzCFm2P1iXREueubKG/index.html?has_native=1&innerAnchor=2200381&innerExtId=00030338"
+						}
+					},
+					"id": 164336,
+					"content": {},
+					"showName": "大家电馆",
+					"imageType": 1,
+					"subtitle": "超级品类日",
+					"moduleTitleColor": "",
+					"subtitleColor": "#7b1aff"
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3382/122/220352367/27265/36641475/5804d8e2N71504112.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "1641_0_CMSSH164434_1476790987_309896_0_1______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/31yw4fWdU7HMFgMJKk2An5M3cggB/index.html?has_native=1"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/31yw4fWdU7HMFgMJKk2An5M3cggB/index.html?has_native=1"
+						}
+					},
+					"id": 164434,
+					"content": {},
+					"showName": "手机数码",
+					"imageType": 1,
+					"subtitle": "荣耀畅玩6X",
+					"moduleTitleColor": "",
+					"subtitleColor": "#7b1aff"
+				}],
+				"tpl": "05003"
+			}, {
+				"data": [{
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3646/273/201387511/18834/86534fff/58048081Na5a79874.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "1641_0_CMSSH164137_1476790987_309406_0_1______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/mr21HUo63MWurT76hNSyxQcuz7F/index.html?has_native=1"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/mr21HUo63MWurT76hNSyxQcuz7F/index.html?has_native=1"
+						}
+					},
+					"id": 164137,
+					"content": {},
+					"showName": "时尚馆",
+					"imageType": 1,
+					"subtitle": "满799减200",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}, {
+					"labelAnimation": "0",
+					"labelWords": "满199-100",
+					"labelColor": "#7b1aff",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3682/210/21826113/27739/4bc3f66d/57fc5bacN92cea351.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "1641_0_CMSSH162735_1476790987_306464_0_1______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://sale.jd.com/app/act/2zKGhV36l4u.html"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://sale.jd.com/app/act/2zKGhV36l4u.html"
+						}
+					},
+					"id": 162735,
+					"content": {},
+					"showName": "美妆馆",
+					"imageType": 1,
+					"subtitle": "美妆7周年庆典",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}],
+				"tpl": "05003"
+			},  {
+				"data": [{
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3115/359/4182866704/67794/953ee6cd/58007b9cNe99733fe.png!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "750_0_CMSSH163501_1476790987_307873_0_0______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/zGwAUzL3pVGjptBBGeYfpKjYdtX/index.html?hasnative=1"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/zGwAUzL3pVGjptBBGeYfpKjYdtX/index.html?hasnative=1"
+						}
+					},
+					"id": 163501,
+					"content": {},
+					"showName": "中外名酒",
+					"imageType": 1,
+					"subtitle": "微醺美酒盛宴",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				},{
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3688/128/82626059/24804/c8475290/58024b49Nba35502c.png!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "babel",
+						"srv": "750_0_CMSSH164019_1476790987_308940_0_0______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": ""
+						},
+						"params": {
+							"activityId": "nKxVyPnuLwAsQSTfidZ9z4RKVZy"
+						}
+					},
+					"id": 164019,
+					"content": {},
+					"showName": "电脑办公",
+					"imageType": 1,
+					"subtitle": "0元赚到投影",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				},{
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3739/317/143243278/44586/6bad4ef5/5800b6c5N29328c7d.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "babel",
+						"srv": "750_0_CMSSH163631_1476790987_308153_0_0______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": ""
+						},
+						"params": {
+							"activityId": "B5nbBHuCjfNkWN1nocNkawR2E8N"
+						}
+					},
+					"id": 163631,
+					"content": {},
+					"showName": "鞋靴箱包",
+					"imageType": 1,
+					"subtitle": "箱包9.9元秒",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				},{
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3805/233/18809773/12896/38c96bff/5804c311N6d910b09.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "750_0_CMSSH164337_1476790987_309764_0_0_____120_",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/4DQQCh6o4tBsVeRSYd7Mkw7qSekR/index.html?has_native=1"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/4DQQCh6o4tBsVeRSYd7Mkw7qSekR/index.html?has_native=1"
+						}
+					},
+					"id": 164337,
+					"content": {},
+					"showName": "小家电馆",
+					"imageType": 1,
+					"subtitle": "买一赠一",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}],
+				"tpl": "05007"
+			},{
+				"data": [{
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3424/181/152606579/33014/a782fd8/58049eb4N3f401f29.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "750_0_CMSSH164183_1476790987_309506_0_0_____122_",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/4Sa8QGJDMDZ66NzYajpSe4GmeUn2/index.html?has_native=1"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/4Sa8QGJDMDZ66NzYajpSe4GmeUn2/index.html?has_native=1"
+						}
+					},
+					"id": 164183,
+					"content": {},
+					"showName": "生鲜馆",
+					"imageType": 1,
+					"subtitle": "开捕季99减20",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3040/25/199538177/66941/a28b3ab6/5795c582N5c6ffb93.PNG!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "750_0_CMSSH163625_1476790987_308147_0_0_____129_",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/4QWQMXL3AgikowXZ6VKXHwrLzSdi/index.html?has_native=1"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/4QWQMXL3AgikowXZ6VKXHwrLzSdi/index.html?has_native=1"
+						}
+					},
+					"id": 163625,
+					"content": {},
+					"showName": "奢品馆",
+					"imageType": 1,
+					"subtitle": "奢品大牌直降",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3313/344/240576592/5114/7689d667/5805949eN5904a234.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "750_0_CMSSH164423_1476790987_309876_0_0______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/UHS7se1t9jmgCRsf8qdFCn2bc2A/index.html"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/UHS7se1t9jmgCRsf8qdFCn2bc2A/index.html"
+						}
+					},
+					"id": 164423,
+					"content": {},
+					"showName": "图书馆",
+					"imageType": 1,
+					"subtitle": "罗永浩推荐书",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t2740/163/4291455026/20171/20ddb469/57b2d859N9ab9539f.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "750_0_CMSSH163759_1476790987_308443_1_0___1#c36f50d2cf335914d8d78d7c2f708ac6e2a3f314#338#N___",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://h5.m.jd.com/active/icTjaGCfgvk53N36uZFX7WLBoTK/index.html?has_native=1"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://h5.m.jd.com/active/icTjaGCfgvk53N36uZFX7WLBoTK/index.html?has_native=1"
+						}
+					},
+					"id": 163759,
+					"content": {},
+					"showName": "个护清洁",
+					"imageType": 1,
+					"subtitle": "第二件0元",
+					"moduleTitleColor": "",
+					"subtitleColor": "#666666"
+				}],
+				"tpl": "05007"
+			}],
+			"subFloorNum": 2
+		},
+		"floorId": 1641,
+		"showName": "逛商场",
+		"verticalInterval": 1,
+		"floorOrder": 74,
+		"head": 1
+	}, {
+		"bottomMargin": 1,
+		"logoImage": "",
+		"textColor": "",
+		"type": "hybrid",
+		"rightCorner": "",
+		"jump": {
+			"des": "",
+			"srv": 491,
+			"shareInfo": {},
+			"params": {}
+		},
+		"innnerInterval": 1,
+		"content": {
+			"subFloors": [{
+				"data": [{
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3598/56/261176423/136677/4367ece3/5804bf18N8b845b35.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "m",
+						"srv": "491_0_CMSSH164320_1476790987_309747_0_1_____163_",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": "http://m.jr.jd.com/udc-active/2016/double11/html/jdapp.html"
+						},
+						"params": {
+							"needLogin": "0",
+							"url": "http://m.jr.jd.com/udc-active/2016/double11/html/jdapp.html"
+						}
+					},
+					"id": 164320,
+					"content": {},
+					"showName": "本地生活通栏",
+					"imageType": 0,
+					"subtitle": "",
+					"moduleTitleColor": "",
+					"subtitleColor": "",
+					"entranceAnimation": 0
+				}],
+				"tpl": "05002"
+			}],
+			"subFloorNum": 1
+		},
+		"floorId": 491,
+		"showName": "本地通栏",
+		"verticalInterval": 0,
+		"floorOrder": 79,
+		"head": 0
+	}, {
+		"bottomMargin": 0,
+		"logoImage": "http://m.360buyimg.com/mobilecms/s186x65_jfs/t2779/51/3499675081/9346/5dfe0e35/578def3aNe403c70e.png!q70.jpg",
+		"textColor": "#ff1e1b",
+		"type": "hybrid",
+		"rightCorner": "更多精彩",
+		"jump": {
+			"des": "newgoodshop",
+			"srv": "1854_ABTest-10098-B-75",
+			"shareInfo": {},
+			"params": {
+				"categoryList": [{
+					"name": "精选",
+					"cid": ""
+				}, {
+					"name": "手机通讯",
+					"cid": "653"
+				}]
+			}
+		},
+		"innnerInterval": 1,
+		"content": {
+			"subFloors": [{
+				"data": [{
+					"sourceValue": "1854_142094__0_ABTest-10098-B-75",
+					"hasPromotion": false,
+					"testId": "ABTest-10098-B-75",
+					"hasNewWare": false,
+					"followCount": 0,
+					"shopCategories": {
+						"recommendDes": "20家好店为你精心推荐",
+						"cid": "",
+						"shopCount": 20,
+						"name": "精选"
+					},
+					"followed": false,
+					"hasDown": false,
+					"shopId": 122644,
+					"shopName": "谷旗官方旗舰店",
+					"shopImage": "http://img30.360buyimg.com/popshop/jfs/t934/290/288333215/9059/9ef116b1/551363fcN69f65dfa.jpg",
+					"wareList": [{
+						"wareId": 0,
+						"imgPath": "http://m.360buyimg.com/n1/jfs/t3130/166/1157846041/176496/92540df6/57c79c4aN52763811.jpg.webp"
+					}, {
+						"wareId": 0,
+						"imgPath": "http://m.360buyimg.com/n1/jfs/t2392/11/2730815903/209496/cbae3b82/57159492N984458f2.jpg.webp"
+					}, {
+						"wareId": 0,
+						"imgPath": "http://m.360buyimg.com/n1/jfs/t3262/72/1143349225/165637/c7241c92/57c67f29N79b1d7f1.jpg.webp"
+					}]
+				}, {
+					"sourceValue": "1854_142095_653_1_ABTest-10098-B-75",
+					"hasPromotion": false,
+					"testId": "ABTest-10098-B-75",
+					"hasNewWare": false,
+					"followCount": 0,
+					"shopCategories": {
+						"recommendDes": "是不是在挑手机？",
+						"cid": "653",
+						"shopCount": 20,
+						"name": "手机通讯"
+					},
+					"followed": false,
+					"hasDown": false,
+					"shopId": 1000000127,
+					"shopName": "京东Apple产品专营店",
+					"shopImage": "http://img30.360buyimg.com/popshop/jfs/t796/208/1017480188/18198/68cefb7/5565bab1Nc01af6ae.jpg",
+					"wareList": [{
+						"wareId": 0,
+						"imgPath": "http://m.360buyimg.com/n1/jfs/t2509/147/103539156/96727/df6f380b/56374dd5Nacbe7098.jpg.webp"
+					}, {
+						"wareId": 0,
+						"imgPath": "http://m.360buyimg.com/n1/jfs/t3298/58/1622979569/120892/64989235/57d0d400Nfd249af4.jpg.webp"
+					}, {
+						"wareId": 0,
+						"imgPath": "http://m.360buyimg.com/n1/jfs/t3286/271/2692886276/116415/743fa573/57e4a37aN4b5421ed.jpg.webp"
+					}]
+				}],
+				"tpl": "05015"
+			}],
+			"subFloorNum": 1
+		},
+		"floorId": 1854,
+		"showName": "好店",
+		"verticalInterval": 0,
+		"floorOrder": 94,
+		"head": 1
+	}, {
+		"bottomMargin": 0,
+		"logoImage": "http://m.360buyimg.com/mobilecms/s186x65_jfs/t3271/3/1907752631/4537/26995ed9/57d629fdNe81d0126.png!q70.jpg",
+		"textColor": "#ff1e1b",
+		"type": "hybrid",
+		"rightCorner": "更多",
+		"jump": {
+			"des": "FindLivePlayList",
+			"srv": 2291,
+			"shareInfo": {},
+			"params": {
+				"position": "0"
+			}
+		},
+		"innnerInterval": 1,
+		"content": {
+			"subFloors": [{
+				"data": [{
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3697/65/288376221/252775/3a01c5f/5804bd9aNe1fc59a2.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "LivePlayerRoom",
+						"srv": "2291_0_CMSSH164282_1476790987_309664_0_1______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": ""
+						},
+						"params": {
+							"id": "7837",
+							"position": "0"
+						}
+					},
+					"id": 164282,
+					"content": {},
+					"showName": "27-1",
+					"imageType": 0,
+					"subtitle": "",
+					"moduleTitleColor": "",
+					"subtitleColor": ""
+				}, {
+					"labelAnimation": "",
+					"labelWords": "",
+					"labelColor": "",
+					"img": "http://m.360buyimg.com/mobilecms/jfs/t3373/161/272481277/237585/da0e8756/5804abf4N5400ad11.jpg!q70.jpg.webp",
+					"rightCorner": "",
+					"maintitleColor": "#181818",
+					"jump": {
+						"des": "FindLivePlayList",
+						"srv": "2291_0_CMSSH164283_1476790987_309684_0_1______",
+						"shareInfo": {
+							"content": "",
+							"title": "",
+							"avatar": "",
+							"url": ""
+						},
+						"params": {
+							"position": "0"
+						}
+					},
+					"id": 164283,
+					"content": {},
+					"showName": "27-2",
+					"imageType": 0,
+					"subtitle": "",
+					"moduleTitleColor": "",
+					"subtitleColor": ""
+				}],
+				"tpl": "05004"
+			}],
+			"subFloorNum": 1
+		},
+		"floorId": 2291,
+		"showName": "直播5.3",
+		"verticalInterval": 1,
+		"floorOrder": 296,
+		"head": 1
+	}, {
+		"bottomMargin": 0,
+		"sourceValue": "471_0_CMSSH59972_1476790987_0",
+		"logoImage": "",
+		"textColor": "",
+		"param": "dataFrom=2",
+		"shareAvatar": "",
+		"shareTitle": "",
+		"img": "http://m.360buyimg.com/mobilecms/jfs/t2515/339/1378796157/82443/27b8718e/56c056bdNeaff1e63.jpg!q70.jpg.webp",
+		"type": "recommend",
+		"url": "",
+		"shareContent": "",
+		"jumpTo": "",
+		"jumpType": 2,
+		"floorId": 471,
+		"showName": "为你推荐",
+		"shareUrl": "",
+		"floorOrder": 497,
+		"isShare": 1,
+		"functionId": "indexRecommend"
+	}],
+	"code": "0",
+	"executeTime": 73,
+	"lazy": 60,
+	"appCenterAnimations": 1,
+	"personalSourceValue": "163759-1_164184-1#164260-3#164443-2#164145-3#164154-2#163554-3#164407-2#164294-3_1#c36f50d2cf335914d8d78d7c2f708ac6e2a3f314_1609081-163071-5#1765507154-163677-6#2200381-164336-1_1#ABTest-10093-B-0#ABTest-10094-B-0#8279fa2c175e997da4e3277ce75034215f1e2e97"
+}

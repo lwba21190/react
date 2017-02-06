@@ -1,0 +1,154 @@
+{
+  "data":[
+    {
+      "title": "推荐分类",
+      "content": "sort0_c.json",
+      "topContent": "sort0_1_c.json",
+      "isSelected": true
+    },
+    {
+      "title": "个护化妆",
+      "content": "sort1_c.json",
+      "topContent": "sort1_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title": "食品生鲜",
+      "content": "sort2_c.json",
+      "topContent": "sort2_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title": "潮流女装",
+      "content": "sort3_c.json",
+      "topContent": "sort3_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title": "品牌男装",
+      "content": "sort4_c.json",
+      "topContent": "sort4_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"手机数码",
+      "content": "sort5_c.json",
+      "topContent": "sort5_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"电脑办公",
+      "content": "sort6_c.json",
+      "topContent": "sort6_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"家用电器",
+      "content": "sort7_c.json",
+      "topContent": "sort7_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"运动户外",
+      "content": "sort8_c.json",
+      "topContent": "sort8_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"内衣配饰",
+      "content": "sort9_c.json",
+      "topContent": "sort9_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"家具建材",
+      "content": "sort10_c.json",
+      "topContent": "sort10_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"汽车用品",
+      "content": "sort11_c.json",
+      "topContent": "sort11_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"鞋靴箱包",
+      "content": "sort12_c.json",
+      "topContent": "sort12_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"医药保健",
+      "content": "sort13_c.json",
+      "topContent": "sort13_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"钟表珠宝",
+      "content": "sort14_c.json",
+      "topContent": "sort14_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"母婴童装",
+      "content": "sort15_c.json",
+      "topContent": "sort15_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"玩具乐器",
+      "content": "sort16_c.json",
+      "topContent": "sort16_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"宠物农资",
+      "content": "sort17_c.json",
+      "topContent": "sort17_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"家居家纺",
+      "content": "sort18_c.json",
+      "topContent": "sort18_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"居家生活",
+      "content": "sort19_c.json",
+      "topContent": "sort19_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"酒水饮料",
+      "content": "sort20_c.json",
+      "topContent": "sort20_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"奢品礼品",
+      "content": "sort21_c.json",
+      "topContent": "sort21_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"计生情趣",
+      "content": "sort22_c.json",
+      "topContent": "sort22_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"京东金融",
+      "content": "sort23_c.json",
+      "topContent": "sort23_1_c.json",
+      "isSelected": false
+    },
+    {
+      "title":"生活旅行",
+      "content": "sort24_c.json",
+      "topContent": "sort24_1_c.json",
+      "isSelected": false
+    }
+  ]
+}

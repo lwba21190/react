@@ -1,0 +1,26 @@
+{
+	"testId4": "ABTest-10073-&ABTest-10051-B-0",
+	"testId3": "ABTest-10076-B-0&ABTest-10051-B-0",
+	"testId2": "ABTest-10075-B-0&ABTest-10051-B-0",
+	"bannerSource": "cms",
+	"testId1": "ABTest-10074-A-0&ABTest-10051-B-0",
+	"code": "0",
+	"modified": 1474514876000,
+	"bannerFrames": 1,
+	"clientCacheTimeFreq": "1",
+	"clientCacheTime2": "24",
+	"clientCacheTime3": "24",
+	"clientCacheTime1": "24",
+	"cmsPromotionsList": [{
+		"promotion_id": 1,
+		"catelogyId": -1,
+		"imageUrl": "http://m.360buyimg.com/mobilecms/s530x180_jfs/t3103/299/4058897950/16383/97dc9b46/57fccf05N419f1213.jpg.webp",
+		"imageUrl_wap": "",
+		"mPageAddress": "http://h5.m.jd.com/active/2pnDPUjB9pnhjQ7a4iSN4YLXXTx/index.html",
+		"target": "",
+		"promotionLogUrl": "",
+		"destination": "",
+		"jumpFlag": "0"
+	}],
+	"commonCategoryTimestamp": 1476201600121
+}

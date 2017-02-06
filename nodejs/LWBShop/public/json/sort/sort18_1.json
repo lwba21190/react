@@ -1,0 +1,16 @@
+{
+	"cmsPromotionsList": [{
+		"promotion_id": 1,
+		"catelogyId": 1620,
+		"imageUrl": "http://m.360buyimg.com/mobilecms/s530x180_jfs/t3058/198/3904023137/83044/7fc8c2e6/57faf613Nbbe63917.jpg.webp",
+		"imageUrl_wap": "",
+		"mPageAddress": "http://sale.jd.com/m/act/ktCxFd2ulJZ.html",
+		"target": "",
+		"promotionLogUrl": "http://ccc.x.jd.local/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTEzNzM4MjkzXzEyMDYmdG89aHR0cDovL3NhbGUuamQuY29tL20vYWN0L2t0Q3hGZDJ1bEpaLmh0bWw&log=6AAZQA2LZHQIcyKXGH5vLnjXDzQJGp0j0znH4Ea2NYH09R5js2bUA6UDQY49bo6gqThMIS8TMEXo1SyKOe0h-7SCVhl2VNw0zxlGikYbMU1yoQf6kDdWgRS-GJr7-gAWEdvGGJNjQtrYkmwPVdsViuNpYO8xwOqseb0qpitJKZTcSCYugDMq6ASgkpfK6kOv8Noe7NvHedSk4NNIKA2JO6zGeotEOi4sUe3qKj2bu1lQKsfyEVPLtGUm4ib73rmCKpGAXvZJ7zLfhYj24BjUYSkLU_HXzJJ-h1qksovAOoNVNR7Qy5jzgr_IUFdAvx62ou5a-HYUdNRpMeduq-6JZ9hzgiiJzUTybl8DGLOrNVnKm1oMuS6X3ZwuEs6IIG5X1zD8r_YT4zM3zH59F5oP2djEEZIu0Dy2tuEhUY6sNK4&v=404&clicktype=1&",
+		"destination": "",
+		"jumpFlag": "0",
+		"abt": "1"
+	}],
+	"bannerSource": "ads",
+	"code": "0"
+}

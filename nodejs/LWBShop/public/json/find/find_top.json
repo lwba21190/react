@@ -1,0 +1,216 @@
+{
+	"homePitTitle": "推荐主题",
+	"floorList": [{
+		"channelName": "live",
+		"corner": "NEW",
+		"floorId": 1,
+		"icon": "http://m.360buyimg.com/mobilecms/s66x68_jfs/t3133/96/1460308986/3629/ad6c1b29/57cd0f42Nfa7ce9ac.png",
+		"jump": {
+			"des": "FindLivePlayList",
+			"eventId": "Discover_Live",
+			"params": {
+				"position": "0",
+				"needLogin": "0"
+			},
+			"srv": ""
+		},
+		"order": 1,
+		"title": "直播"
+	}, {
+		"channelName": "story",
+		"corner": "",
+		"floorId": 1,
+		"icon": "http://m.360buyimg.com/mobilecms/s66x68_jfs/t2632/209/3948260958/4938/564d53ef/57a2e6d0N5b22ff00.png",
+		"jump": {
+			"des": "native_story",
+			"eventId": "Discover_Story",
+			"params": {
+				"needLogin": "0"
+			},
+			"srv": ""
+		},
+		"order": 4,
+		"title": "社区"
+	}, {
+		"channelName": "nicegoods",
+		"corner": "",
+		"floorId": 1,
+		"icon": "http://m.360buyimg.com/mobilecms/s66x68_jfs/t3193/241/1431599210/5182/3efd9b97/57cd307dNb8fa2357.png",
+		"jump": {
+			"des": "goodstuff",
+			"eventId": "Discover_Goods",
+			"params": {
+				"needLogin": "0"
+			},
+			"srv": ""
+		},
+		"order": 5,
+		"title": "好东西"
+	}, {
+		"channelName": "inventory",
+		"corner": "必看",
+		"floorId": 1,
+		"icon": "http://m.360buyimg.com/mobilecms/s66x68_jfs/t2782/67/3837672042/8265/b7bec38f/5799a523Nd10ef67b.png",
+		"jump": {
+			"des": "inventory",
+			"eventId": "Discover_List",
+			"params": {
+				"needLogin": "0"
+			},
+			"srv": ""
+		},
+		"order": 7,
+		"title": "优选清单"
+	}, {
+		"channelName": "storetrend",
+		"corner": "",
+		"floorId": 1,
+		"icon": "http://m.360buyimg.com/mobilecms/s66x68_jfs/t2761/42/4247959711/2956/6c346ca/57b27e50N8160b1c9.png",
+		"jump": {
+			"des": "native_storetrend",
+			"eventId": "Discover_ShopDynamic",
+			"params": {
+				"from": "发现",
+				"needLogin": "0"
+			},
+			"srv": ""
+		},
+		"order": 8,
+		"title": "店铺头条"
+	}, {
+		"channelName": "giftartifact",
+		"corner": "",
+		"floorId": 1,
+		"icon": "http://m.360buyimg.com/mobilecms/s66x68_jfs/t2908/92/3812213131/4993/11afa267/579af227N00b5b334.png",
+		"jump": {
+			"des": "m",
+			"eventId": "Discover_Gift",
+			"params": {
+				"needLogin": "0",
+				"url": "http://liwu.jd.com/"
+			},
+			"srv": "http://liwu.jd.com/"
+		},
+		"order": 9,
+		"title": "选礼神器"
+	}, {
+		"channelName": "photobuy",
+		"corner": "",
+		"floorId": 1,
+		"icon": "http://m.360buyimg.com/mobilecms/s66x68_jfs/t2059/219/1676234560/3290/c0cadefa/56d55fdaN9324c142.png",
+		"jump": {
+			"des": "native_photobuy",
+			"eventId": "Discover_SharePhotos",
+			"params": {
+				"needLogin": "0"
+			},
+			"srv": ""
+		},
+		"order": 16,
+		"title": "拍照购"
+	}],
+	"code": "0",
+	"homePit": [{
+		"content": [{
+			"dynamicImg": [],
+			"id": "344",
+			"imgType": 0,
+			"imgUrl": "http://m.360buyimg.com/mobilecms/jfs/t3115/185/4047693690/121405/344169b6/57fee1d9Na1373a74.jpg!q70.jpg",
+			"jump": {
+				"des": "m",
+				"eventId": "",
+				"params": {
+					"url": "http://h5.m.jd.com/active/3n3vuX5LJhMmckn58Xu7xTgdZEqf/index.html"
+				},
+				"srv": "http://h5.m.jd.com/active/3n3vuX5LJhMmckn58Xu7xTgdZEqf/index.html"
+			},
+			"name": "外媒评国产手机",
+			"slogan": "Top10居然是..."
+		}, {
+			"dynamicImg": [],
+			"id": "340",
+			"imgType": 0,
+			"imgUrl": "http://m.360buyimg.com/mobilecms/jfs/t3070/291/4033922925/179827/4830c84e/57fdf937N7c5eb070.jpg!q70.jpg",
+			"jump": {
+				"des": "m",
+				"eventId": "",
+				"params": {
+					"url": "http://h5.m.jd.com/active/oEcpZEugxCuBuQetrwcAMPKaegD/index.html"
+				},
+				"srv": "http://h5.m.jd.com/active/oEcpZEugxCuBuQetrwcAMPKaegD/index.html"
+			},
+			"name": "不是单身狗别点",
+			"slogan": "看了蓝瘦又香菇！"
+		}, {
+			"dynamicImg": [],
+			"id": "335",
+			"imgType": 0,
+			"imgUrl": "http://m.360buyimg.com/mobilecms/jfs/t3289/33/4066619015/77085/a619072b/57fefea8N165618a0.jpg!q70.jpg",
+			"jump": {
+				"des": "m",
+				"eventId": "",
+				"params": {
+					"url": "http://h5.m.jd.com/active/qU9jdq9HzVHT77KZuNKrSQE8rp3/index.html"
+				},
+				"srv": "http://h5.m.jd.com/active/qU9jdq9HzVHT77KZuNKrSQE8rp3/index.html"
+			},
+			"name": "业界良心！",
+			"slogan": "平价好用的国货妆品"
+		}],
+		"fontColor": "",
+		"id": "22",
+		"moodImg": "",
+		"title": "",
+		"titleHide": 0,
+		"type": "trisection"
+	}],
+	"articleType": [{
+		"id": 21,
+		"name": "京东号",
+		"testId": "ABTest-10010-homediscoverysortcate-EXC-0"
+	}, {
+		"id": 5,
+		"name": "型男志",
+		"testId": "ABTest-10010-homediscoverysortcate-EXC-0"
+	}, {
+		"id": 3,
+		"name": "爱搞机",
+		"testId": "ABTest-10010-homediscoverysortcate-EXC-0"
+	}, {
+		"id": 4,
+		"name": "生活家",
+		"testId": "ABTest-10010-homediscoverysortcate-EXC-0"
+	}, {
+		"id": 9,
+		"name": "女神范",
+		"testId": "ABTest-10010-homediscoverysortcate-EXC-0"
+	}, {
+		"id": 8,
+		"name": "亲子园",
+		"testId": "ABTest-10010-homediscoverysortcate-EXC-0"
+	}, {
+		"id": 6,
+		"name": "数码控",
+		"testId": "ABTest-10010-homediscoverysortcate-EXC-0"
+	}, {
+		"id": 7,
+		"name": "文艺咖",
+		"testId": "ABTest-10010-homediscoverysortcate-EXC-0"
+	}, {
+		"id": 17,
+		"name": "理财师",
+		"testId": "ABTest-10010-homediscoverysortcate-EXC-0"
+	}, {
+		"id": 19,
+		"name": "吃货党",
+		"testId": "ABTest-10010-homediscoverysortcate-EXC-0"
+	}, {
+		"id": 15,
+		"name": "品牌街",
+		"testId": "ABTest-10010-homediscoverysortcate-EXC-0"
+	}, {
+		"id": 20,
+		"name": "家居馆",
+		"testId": "ABTest-10010-homediscoverysortcate-EXC-0"
+	}]
+}

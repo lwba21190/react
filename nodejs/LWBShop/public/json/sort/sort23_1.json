@@ -1,0 +1,16 @@
+{
+	"cmsPromotionsList": [{
+		"promotion_id": 1,
+		"catelogyId": 100002201,
+		"imageUrl": "http://m.360buyimg.com/mobilecms/s530x180_jfs/t3286/70/2415191679/37845/1f1faa69/57e0adb3N38cc2233.jpg.webp",
+		"imageUrl_wap": "",
+		"mPageAddress": "http://sale.jd.com/app/act/tp6KfYH7wb.html",
+		"target": "",
+		"promotionLogUrl": "",
+		"destination": "",
+		"jumpFlag": "0"
+	}],
+	"bannerSource": "cms",
+	"code": "0",
+	"bannerFrames": 1
+}

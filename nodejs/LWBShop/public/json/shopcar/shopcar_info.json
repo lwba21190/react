@@ -1,0 +1,199 @@
+{
+	"imageDomain": "http://m.360buyimg.com/mobilecms/s234x234_",
+	"message": "",
+	"resultCode": 0,
+	"code": "0",
+	"cartInfo": {
+		"vendors": [{
+			"vendorId": 66621,
+			"vendorType": 0,
+			"shopId": 62888,
+			"shopName": "海澜之家京东旗舰店",
+			"vendorPrice": 298.0,
+			"freeFreight": 68,
+			"specialId": 0,
+			"sorted": [{
+				"itemType": 1,
+				"item": {
+					"Skus": [{
+						"Tags": [],
+						"Discount": 0.0,
+						"IdForOldVersion": 10498914303,
+						"Point": 0,
+						"PriceImg": "",
+						"RePrice": 0.0,
+						"AwardType": 0,
+						"targetId": 0,
+						"isBook": false,
+						"isYb": false,
+						"Gifts": [],
+						"stockState": "有货",
+						"remainNum": "",
+						"remainNumInt": -1,
+						"canSelectPromotions": [],
+						"propertyTags": {
+							"b": "尺码:175/92A",
+							"a": "颜色:湖蓝(D9)"
+						},
+						"cid": 9730,
+						"Id": "10498914303",
+						"Name": "海澜之家/Heilan Home2016秋季新品男装条纹夹克外套HWJAJ3N118A 湖蓝(D9) 175/92A",
+						"Num": 1,
+						"Price": 298.0,
+						"PriceShow": "￥298.00",
+						"ImgUrl": "jfs/t3256/323/2351183064/268406/940d02de/57dfc82cN15187420.jpg!q70.jpg",
+						"CheckType": 1
+					}]
+				}
+			}]
+		}, {
+			"vendorId": 8888,
+			"vendorType": 99,
+			"shopId": -1,
+			"shopName": "京东自营",
+			"vendorPrice": 268.9,
+			"freeFreight": 99,
+			"specialId": 1,
+			"sorted": [{
+				"itemType": 9,
+				"item": {
+					"NeedMoney": 99.0,
+					"Num": 1,
+					"Skus": [{
+						"Tags": [],
+						"Discount": 0.0,
+						"IdForOldVersion": 2551892,
+						"Point": 0,
+						"PriceImg": "",
+						"RePrice": 0.0,
+						"AwardType": 0,
+						"targetId": 0,
+						"isBook": false,
+						"isYb": false,
+						"Gifts": [],
+						"stockState": "有货",
+						"remainNum": "",
+						"remainNumInt": -1,
+						"canSelectPromotions": [{
+							"id": 192595252,
+							"title": "满99.00减30.00",
+							"type": 10,
+							"checkType": 1
+						}, {
+							"id": 192762806,
+							"title": "满59.00得赠品，赠完即止",
+							"type": 10,
+							"checkType": 0
+						}],
+						"propertyTags": {
+							"a": "口味:山药黑芝麻340g"
+						},
+						"cid": 1601,
+						"Id": "2551892",
+						"Name": "【京东超市】桂格（QUAKER）珍膳磨坊 山药黑芝麻粉 340g",
+						"Num": 1,
+						"Price": 31.9,
+						"PriceShow": "￥31.90",
+						"ImgUrl": "jfs/t2647/283/3087797317/398905/87b83b49/577dcfd8N626950d1.jpg!q70.jpg",
+						"CheckType": 1
+					}],
+					"Gifts": [],
+					"RePrice": 0.0,
+					"Price": 31.9,
+					"Discount": 0.0,
+					"Id": 192595252,
+					"PriceShow": "￥31.90",
+					"Point": 0,
+					"STip": "购满99.00元可减30.00元，还差67.10元",
+					"SType": 11,
+					"CheckType": 1,
+					"CanSelectGifts": [],
+					"suitType": 10,
+					"linkUrl": "http://sale.jd.com/act/nq7djVfpltz.html",
+					"promotionId": "192595252",
+					"specialId": "0",
+					"isReachCondition": false,
+					"suitLabel": "满减"
+				}
+			}, {
+				"itemType": 12,
+				"item": {
+					"NeedMoney": 1.0,
+					"Num": 1,
+					"Skus": [{
+						"Tags": [],
+						"Discount": 0.0,
+						"IdForOldVersion": 1546381,
+						"Point": 0,
+						"PriceImg": "",
+						"RePrice": 0.0,
+						"AwardType": 0,
+						"targetId": 0,
+						"isBook": false,
+						"isYb": false,
+						"Gifts": [],
+						"stockState": "有货",
+						"remainNum": "",
+						"remainNumInt": -1,
+						"canSelectPromotions": [{
+							"id": 192143708,
+							"title": "满1.00加11.90可换购商品",
+							"type": 10,
+							"checkType": 1
+						}],
+						"propertyTags": {
+							"a": "规格:杞居宁夏枸杞免洗枸杞礼盒420g"
+						},
+						"cid": 1593,
+						"Id": "1546381",
+						"Name": "【京东超市】宁夏特产 百瑞源 杞居宁夏枸杞免洗枸杞礼盒420g/盒（10g*42袋）",
+						"Num": 3,
+						"Price": 79.0,
+						"PriceShow": "￥79.00",
+						"ImgUrl": "jfs/t2092/23/2788731708/444679/2596a270/56f20153N629c32ee.jpg!q70.jpg",
+						"CheckType": 1
+					}],
+					"Gifts": [],
+					"RePrice": 0.0,
+					"Price": 237.0,
+					"Discount": 0.0,
+					"Id": 192143708,
+					"PriceShow": "￥237.00",
+					"Point": 0,
+					"AddMoney": 11.9,
+					"STip": "已购满1.00元，可加价11.90元换购商品",
+					"SType": 16,
+					"CheckType": 1,
+					"CanSelectGifts": [],
+					"suitType": 10,
+					"linkUrl": "http://sale.jd.com/act/YxeTJ1L6bPRtczW.html",
+					"promotionId": "192143708",
+					"specialId": "0",
+					"isReachCondition": true,
+					"suitLabel": "换购"
+				}
+			}]
+		}],
+		"specialId": 3,
+		"Num": 5,
+		"cartNum": 3,
+		"checkedWareNum": 5,
+		"limitCartNum": 50,
+		"limitWareNum": 1000,
+		"limitBookNum": 1000,
+		"limitNotBookNum": 200,
+		"RePrice": 0.0,
+		"Price": 566.9,
+		"IsEmpty": false,
+		"PriceShow": "￥566.90",
+		"Skus": [],
+		"Suits": [],
+		"Gifts": [],
+		"tip_1": "",
+		"tip_2": ""
+	},
+	"notice": {
+		"value": "",
+		"specialId": 0
+	}
+}

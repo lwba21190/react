@@ -1,0 +1,68 @@
+{
+    "data": [
+      [
+        {
+          "iconName": "waitpay",
+          "number": "",
+          "title": "待付款",
+          "subtitle": ""
+        },
+        {
+          "iconName": "waitreceive",
+          "number": "",
+          "title": "待收货",
+          "subtitle": ""
+        },
+        {
+          "iconName": "waitevaluate",
+          "number": "",
+          "title": "待评价",
+          "subtitle": ""
+        },
+        {
+          "iconName": "fxth",
+          "number": "",
+          "title": "返修/退换",
+          "subtitle": ""
+        },
+        {
+          "iconName": "order",
+          "number": "",
+          "title": "我的订单>",
+          "subtitle": ""
+        }
+      ],
+      [
+        {
+          "iconName": "",
+          "number": "0",
+          "title": "京豆",
+          "subtitle": ""
+        },
+        {
+          "iconName": "",
+          "number": "0",
+          "title": "优惠券",
+          "subtitle": ""
+        },
+        {
+          "iconName": "",
+          "number": "0.00",
+          "title": "白条",
+          "subtitle": ""
+        },
+        {
+          "iconName": "",
+          "number": "0",
+          "title": "京东E卡",
+          "subtitle": ""
+        },
+        {
+          "iconName": "wallet",
+          "number": "",
+          "title": "我的钱包>",
+          "subtitle": ""
+        }
+      ]
+    ]
+}

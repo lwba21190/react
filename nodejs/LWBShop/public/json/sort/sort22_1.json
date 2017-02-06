@@ -1,0 +1,16 @@
+{
+	"cmsPromotionsList": [{
+		"promotion_id": 1,
+		"catelogyId": 100001958,
+		"imageUrl": "http://m.360buyimg.com/mobilecms/s530x180_jfs/t2818/318/3878713882/100277/c4458b38/57a45487N2f4dd691.jpg.webp",
+		"imageUrl_wap": "",
+		"mPageAddress": "http://h5.m.jd.com/active/2LpwUnG8NaSDhmSQS1x9gJs9e3To/index.html",
+		"target": "",
+		"promotionLogUrl": "",
+		"destination": "",
+		"jumpFlag": "0"
+	}],
+	"bannerSource": "cms",
+	"code": "0",
+	"bannerFrames": 1
+}
