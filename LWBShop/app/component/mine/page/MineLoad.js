@@ -65,6 +65,16 @@ class MineLoad extends Component{
 								underlineColorAndroid='transparent'
 								onChangeText={(text)=>{this.setState({password: text})}}
 								value={this.state.password}
+                                                                 maxLength={32}
+								    onBlur={()=>{
+									    if(!(/^\w+$/).test(this.state.userName)
+										    && !(/^((\d{11})|^((\d{7,8})|(\d{4}|\d{3})-(\d{7,8})|(\d{4}|\d{3})-(\d{7,8})-(\d{4}|\d{3}|\d{2}|\d{1})|(\d{7,8})-(\d{4}|\d{3}|\d{2}|\d{1}))$)$/).test(this.state.userName)
+										    && !(/^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/).test(this.state.email)
+									    ){
+										    Alert.alert("用户名不正确");
+										    this.setState({userName:""});
+									    }
+								    }}
 							/>
 						</View>
 					</View>
