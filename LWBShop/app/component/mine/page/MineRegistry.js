@@ -51,24 +51,39 @@ class MineRegistry extends Component{
 	renderContent(){
 		return(
 			<View style={styles.contentView}>
-				{(this.props.type === "registry") && this.renderItem("用户名","请输入用户名",false,(text)=>{this.setState({accountName:text})})}
-				{this.renderItem("设置密码","请输入密码",true,(text)=>{this.setState({password:text})})}
-				{this.renderItem("确认密码","请再次输入密码",true,(text)=>{this.setState({passwordConfirm:text})})}
-				{this.renderItem("手机号码","请输入手机号码",false,(text)=>{this.setState({phoneNumber:text})})}
-				{(this.props.type === "registry") && this.renderItem("邮箱地址","请输入常用邮箱地址",false,(text)=>{this.setState({email:text})})}
+				{(this.props.type === "registry") && this.renderItem("用户名",this.state.accountName,"请输入用户名",false,32,(text)=>{this.setState({accountName:text})},()=>{
+					if(!(/^\w+$/).test(this.state.accountName)){
+						Alert.alert("用户名只能由字符，数字和下划线组成");
+						this.setState({accountName:""});
+					}
+				})}
+				{this.renderItem("设置密码",this.state.password,"请输入密码",true,32,(text)=>{this.setState({password:text})})}
+				{this.renderItem("确认密码",this.state.passwordConfirm,"请再次输入密码",true,32,(text)=>{this.setState({passwordConfirm:text})})}
+				{this.renderItem("手机号码",this.state.phoneNumber,"请输入手机号码",false,11,(text)=>{this.setState({phoneNumber:text})},()=>{
+					if(!(/^((\d{11})|^((\d{7,8})|(\d{4}|\d{3})-(\d{7,8})|(\d{4}|\d{3})-(\d{7,8})-(\d{4}|\d{3}|\d{2}|\d{1})|(\d{7,8})-(\d{4}|\d{3}|\d{2}|\d{1}))$)$/.test(this.state.phoneNumber))){
+						Alert.alert("手机号码不正确");
+						this.setState({phoneNumber:""});
+					}
+				})}
+				{(this.props.type === "registry") && this.renderItem("邮箱地址",this.state.email,"请输入常用邮箱地址",false,64,(text)=>{this.setState({email:text})},()=>{
+					if(!(/^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/).test(this.state.email)){
+						Alert.alert("请输入正确的邮箱");
+						this.setState({email:""});
+					}
+				})}
 				<View>
 					<TouchableOpacity  style={{position:'absolute',right:10,top:20,zIndex:1}} onPress={()=>{
 						this.setState({imgFlushParam: "?p="+Math.random()});
 					}}>
 						<Image source={{uri: config.host+ "captcha.png" + this.state.imgFlushParam}} style={{width:80,height:25}}/>
 					</TouchableOpacity>
-					{this.renderItem("验证码","请输入验证码",false,(text)=>{this.setState({imgVerificationCode:text})})}
+					{this.renderItem("验证码",this.state.imgVerificationCode,"请输入验证码",false,4,(text)=>{this.setState({imgVerificationCode:text})})}
 				</View>
 				<View>
 					<TouchableOpacity disabled={this.state.phoneVerifyBtnDisable} style={styles.verifyCodeView} onPress={()=>this.getPhoneVerifyCode()}>
 						<Text style={{fontSize:10}}>{this.state.phoneVerifyTitle}</Text>
 					</TouchableOpacity>
-					{this.renderItem("手机验证码","请输入手机验证码",false,(text)=>{this.setState({smsVerificationCode:text})})}
+					{this.renderItem("手机验证码",this.state.smsVerificationCode,"请输入手机验证码",false,6,(text)=>{this.setState({smsVerificationCode:text})})}
 				</View>
 				<TouchableOpacity style={styles.registryButtonView} onPress={()=>this.register()}>
 					<Text style={{color:'white'}}>{(this.props.type=="registry")?"注册":"确认"}</Text>
@@ -77,7 +92,7 @@ class MineRegistry extends Component{
 		);
 	}
 	
-	renderItem(title,placeholder,isPasswordTextInput,callback){
+	renderItem(title,value,placeholder,isPasswordTextInput,maxLength,callback,onblur){
 		return (
 			<View style={styles.itemView}>
 				<View style={{width:70,justifyContent:'center',alignItems:'center'}}>
@@ -85,12 +100,15 @@ class MineRegistry extends Component{
 				</View>
 				<TextInput
 					style={styles.textInput}
+					value={value}
 					placeholder={placeholder}
 					placeholderTextColor='#cccccc'
 					autoCapitalize="none"
 					secureTextEntry={isPasswordTextInput}
 					underlineColorAndroid='transparent'
+					maxLength={maxLength}
 					onChangeText={(text)=>callback(text)}
+				    onBlur={()=>{onblur && onblur()}}
 				/>
 			</View>
 		);
